@@ -1,0 +1,301 @@
+Seller_ID,Seller_Name,State,City,Seller_Rating,Join_Date
+1,City Mart 1,Rajasthan,Banswara,4.8,2024-12-29
+2,Style Point 2,Uttar Pradesh,Kanpur,4.5,2024-11-07
+3,Trendy Zone 3,Rajasthan,Udaipur,4.4,2024-05-29
+4,Style Point 4,Rajasthan,Kota,4.1,2025-03-26
+5,Maa Collection 5,Maharashtra,Pune,3.8,2024-12-24
+6,Shree Fashion Hub 6,Uttar Pradesh,Noida,4.8,2024-08-20
+7,Daily Needs 7,Delhi,New Delhi,3.8,2024-02-17
+8,Urban Store 8,Gujarat,Rajkot,4.3,2024-02-02
+9,Shree Fashion Hub 9,Gujarat,Rajkot,5.0,2024-03-24
+10,City Mart 10,Uttar Pradesh,Kanpur,4.7,2025-03-25
+11,Urban Store 11,Uttar Pradesh,Noida,4.6,2024-05-31
+12,City Mart 12,Rajasthan,Banswara,4.0,2024-08-08
+13,Urban Store 13,Delhi,New Delhi,4.6,2024-11-11
+14,Style Point 14,Delhi,New Delhi,4.5,2024-02-10
+15,Royal Mart 15,Maharashtra,Pune,4.3,2024-03-02
+16,Maa Collection 16,Maharashtra,Pune,4.2,2025-06-20
+17,RK Traders 17,Karnataka,Bengaluru,4.7,2024-07-09
+18,Royal Mart 18,Rajasthan,Banswara,4.6,2024-12-03
+19,Royal Mart 19,Maharashtra,Mumbai,3.6,2024-07-29
+20,RK Traders 20,Rajasthan,Udaipur,4.9,2024-03-01
+21,Maa Collection 21,Gujarat,Surat,4.8,2024-01-01
+22,Fashion Club 22,Maharashtra,Pune,3.7,2024-11-20
+23,Royal Mart 23,Gujarat,Rajkot,4.1,2024-07-07
+24,Trendy Zone 24,Gujarat,Surat,3.7,2025-04-18
+25,Urban Store 25,Maharashtra,Pune,4.0,2024-03-30
+26,Urban Store 26,Uttar Pradesh,Kanpur,4.6,2024-08-01
+27,Urban Store 27,Uttar Pradesh,Kanpur,4.9,2024-06-21
+28,Urban Store 28,Rajasthan,Udaipur,4.5,2024-06-30
+29,Fashion Club 29,Delhi,New Delhi,3.7,2025-03-11
+30,Daily Needs 30,Maharashtra,Mumbai,3.8,2024-06-15
+31,RK Traders 31,Uttar Pradesh,Kanpur,3.6,2025-04-07
+32,City Mart 32,Uttar Pradesh,Kanpur,4.6,2024-08-30
+33,RK Traders 33,Rajasthan,Udaipur,3.6,2025-05-09
+34,Shree Fashion Hub 34,Delhi,New Delhi,3.8,2024-08-26
+35,Trendy Zone 35,Gujarat,Surat,3.6,2025-05-01
+36,Royal Mart 36,Delhi,New Delhi,3.9,2024-10-14
+37,City Mart 37,Rajasthan,Kota,4.3,2024-11-03
+38,Royal Mart 38,Delhi,New Delhi,3.5,2025-01-18
+39,Urban Store 39,Rajasthan,Banswara,3.8,2024-09-13
+40,Style Point 40,Maharashtra,Mumbai,4.4,2024-05-14
+41,Daily Needs 41,Karnataka,Mysuru,5.0,2024-11-11
+42,Style Point 42,Gujarat,Ahmedabad,4.6,2025-05-18
+43,Urban Store 43,Rajasthan,Jaipur,4.1,2024-06-08
+44,Trendy Zone 44,Karnataka,Bengaluru,4.6,2024-08-11
+45,Urban Store 45,Rajasthan,Kota,3.9,2024-03-29
+46,Style Point 46,Uttar Pradesh,Kanpur,4.8,2024-12-26
+47,Trendy Zone 47,Gujarat,Surat,4.1,2025-02-24
+48,Trendy Zone 48,Karnataka,Mysuru,4.0,2024-08-23
+49,Shree Fashion Hub 49,Maharashtra,Pune,4.6,2024-03-09
+50,Urban Store 50,Delhi,New Delhi,4.5,2024-06-05
+51,Fashion Club 51,Rajasthan,Jaipur,3.9,2024-02-06
+52,RK Traders 52,Gujarat,Ahmedabad,3.7,2024-06-17
+53,Royal Mart 53,Gujarat,Ahmedabad,4.9,2024-09-25
+54,Trendy Zone 54,Karnataka,Bengaluru,4.8,2024-11-22
+55,RK Traders 55,Rajasthan,Udaipur,4.2,2024-07-30
+56,City Mart 56,Maharashtra,Pune,3.8,2024-02-23
+57,Daily Needs 57,Karnataka,Mysuru,4.8,2024-01-09
+58,Trendy Zone 58,Maharashtra,Mumbai,5.0,2024-11-20
+59,RK Traders 59,Gujarat,Rajkot,3.8,2024-03-30
+60,Daily Needs 60,Gujarat,Rajkot,4.6,2024-04-01
+61,Trendy Zone 61,Rajasthan,Udaipur,3.7,2025-04-09
+62,Fashion Club 62,Rajasthan,Jaipur,4.2,2024-07-30
+63,Daily Needs 63,Uttar Pradesh,Lucknow,4.9,2024-08-03
+64,Maa Collection 64,Delhi,New Delhi,4.5,2024-06-03
+65,Fashion Club 65,Karnataka,Mysuru,4.3,2024-08-18
+66,Fashion Club 66,Rajasthan,Kota,4.2,2024-08-09
+67,City Mart 67,Rajasthan,Banswara,3.5,2024-09-10
+68,Style Point 68,Uttar Pradesh,Noida,4.7,2024-01-07
+69,Daily Needs 69,Gujarat,Surat,3.9,2024-12-18
+70,Shree Fashion Hub 70,Rajasthan,Udaipur,3.9,2024-10-27
+71,Fashion Club 71,Gujarat,Ahmedabad,3.7,2025-06-09
+72,RK Traders 72,Rajasthan,Jaipur,4.7,2025-05-30
+73,City Mart 73,Rajasthan,Kota,4.5,2024-08-31
+74,Style Point 74,Rajasthan,Udaipur,4.5,2025-05-29
+75,Daily Needs 75,Delhi,New Delhi,4.6,2024-11-15
+76,Maa Collection 76,Rajasthan,Udaipur,4.0,2024-10-06
+77,Daily Needs 77,Rajasthan,Banswara,4.8,2024-05-16
+78,Maa Collection 78,Karnataka,Mysuru,4.1,2024-07-14
+79,Maa Collection 79,Rajasthan,Kota,5.0,2025-03-14
+80,City Mart 80,Maharashtra,Nagpur,3.5,2024-02-02
+81,Fashion Club 81,Maharashtra,Mumbai,4.0,2025-05-15
+82,RK Traders 82,Maharashtra,Mumbai,3.5,2025-05-16
+83,Maa Collection 83,Uttar Pradesh,Lucknow,4.3,2024-10-25
+84,Shree Fashion Hub 84,Karnataka,Mysuru,4.9,2025-01-14
+85,RK Traders 85,Maharashtra,Mumbai,4.0,2024-12-17
+86,Style Point 86,Rajasthan,Kota,3.9,2024-03-21
+87,Maa Collection 87,Gujarat,Ahmedabad,4.6,2025-02-26
+88,Royal Mart 88,Uttar Pradesh,Lucknow,3.6,2025-01-04
+89,Daily Needs 89,Gujarat,Rajkot,4.1,2025-01-11
+90,RK Traders 90,Uttar Pradesh,Noida,4.2,2025-03-24
+91,Urban Store 91,Uttar Pradesh,Lucknow,4.8,2024-01-06
+92,Style Point 92,Maharashtra,Pune,4.7,2024-03-08
+93,Daily Needs 93,Delhi,New Delhi,4.5,2024-03-04
+94,Daily Needs 94,Rajasthan,Banswara,4.5,2025-04-16
+95,Style Point 95,Rajasthan,Kota,4.6,2024-10-17
+96,Daily Needs 96,Maharashtra,Nagpur,4.2,2024-04-13
+97,Shree Fashion Hub 97,Rajasthan,Kota,3.9,2024-01-13
+98,Royal Mart 98,Rajasthan,Jaipur,3.9,2024-01-25
+99,Royal Mart 99,Uttar Pradesh,Kanpur,4.7,2024-05-04
+100,Urban Store 100,Maharashtra,Pune,4.1,2025-05-03
+101,Maa Collection 101,Rajasthan,Jaipur,3.8,2025-05-09
+102,Daily Needs 102,Rajasthan,Kota,3.9,2024-12-24
+103,Maa Collection 103,Maharashtra,Pune,4.1,2024-06-30
+104,Fashion Club 104,Uttar Pradesh,Lucknow,4.3,2025-05-24
+105,Trendy Zone 105,Karnataka,Bengaluru,3.7,2025-02-17
+106,City Mart 106,Rajasthan,Udaipur,4.4,2025-01-06
+107,Daily Needs 107,Karnataka,Bengaluru,3.6,2024-09-20
+108,Urban Store 108,Maharashtra,Nagpur,4.7,2024-06-15
+109,City Mart 109,Maharashtra,Pune,5.0,2024-03-07
+110,Trendy Zone 110,Karnataka,Mysuru,4.8,2024-12-31
+111,City Mart 111,Karnataka,Bengaluru,3.5,2024-02-16
+112,RK Traders 112,Uttar Pradesh,Kanpur,3.7,2024-08-04
+113,Trendy Zone 113,Delhi,New Delhi,4.0,2024-01-31
+114,Shree Fashion Hub 114,Uttar Pradesh,Noida,4.3,2025-04-29
+115,Fashion Club 115,Delhi,New Delhi,4.0,2024-11-09
+116,Daily Needs 116,Gujarat,Rajkot,4.0,2025-04-03
+117,Shree Fashion Hub 117,Maharashtra,Pune,5.0,2024-08-25
+118,Trendy Zone 118,Rajasthan,Udaipur,3.7,2024-11-29
+119,Daily Needs 119,Delhi,New Delhi,3.9,2024-02-21
+120,City Mart 120,Uttar Pradesh,Lucknow,4.8,2024-01-31
+121,Daily Needs 121,Gujarat,Surat,4.3,2024-10-04
+122,Fashion Club 122,Gujarat,Surat,3.9,2024-07-24
+123,Style Point 123,Delhi,New Delhi,3.8,2024-05-17
+124,City Mart 124,Delhi,New Delhi,4.1,2025-06-03
+125,Style Point 125,Karnataka,Bengaluru,4.9,2025-05-20
+126,Trendy Zone 126,Gujarat,Rajkot,3.5,2025-02-28
+127,Shree Fashion Hub 127,Maharashtra,Mumbai,4.6,2024-09-19
+128,Urban Store 128,Karnataka,Mysuru,3.9,2024-09-25
+129,Fashion Club 129,Gujarat,Ahmedabad,3.5,2024-05-18
+130,Urban Store 130,Maharashtra,Nagpur,4.8,2024-02-08
+131,City Mart 131,Rajasthan,Banswara,4.6,2024-06-07
+132,RK Traders 132,Gujarat,Surat,3.7,2025-03-30
+133,RK Traders 133,Karnataka,Bengaluru,4.6,2024-08-02
+134,Maa Collection 134,Uttar Pradesh,Kanpur,4.8,2024-06-18
+135,Royal Mart 135,Karnataka,Bengaluru,4.6,2025-01-29
+136,Trendy Zone 136,Gujarat,Surat,4.8,2025-03-22
+137,Fashion Club 137,Uttar Pradesh,Kanpur,3.6,2025-02-01
+138,Trendy Zone 138,Karnataka,Mysuru,4.0,2024-03-15
+139,Royal Mart 139,Gujarat,Ahmedabad,4.9,2024-03-31
+140,Maa Collection 140,Delhi,New Delhi,4.3,2024-12-04
+141,Daily Needs 141,Uttar Pradesh,Noida,4.6,2025-02-07
+142,Daily Needs 142,Maharashtra,Mumbai,3.5,2024-07-23
+143,Fashion Club 143,Delhi,New Delhi,4.2,2024-08-31
+144,RK Traders 144,Karnataka,Mysuru,4.1,2024-04-15
+145,RK Traders 145,Gujarat,Surat,3.6,2024-04-01
+146,Shree Fashion Hub 146,Gujarat,Ahmedabad,3.5,2024-06-21
+147,Daily Needs 147,Delhi,New Delhi,4.4,2024-12-10
+148,City Mart 148,Karnataka,Mysuru,4.1,2024-01-04
+149,Royal Mart 149,Rajasthan,Jaipur,4.9,2024-11-15
+150,Daily Needs 150,Maharashtra,Mumbai,4.6,2024-09-14
+151,Fashion Club 151,Maharashtra,Pune,3.6,2025-01-06
+152,City Mart 152,Uttar Pradesh,Kanpur,4.7,2024-12-10
+153,RK Traders 153,Gujarat,Ahmedabad,4.9,2024-08-28
+154,Shree Fashion Hub 154,Delhi,New Delhi,4.3,2024-11-02
+155,Shree Fashion Hub 155,Delhi,New Delhi,3.9,2024-10-11
+156,Urban Store 156,Karnataka,Mysuru,4.6,2024-07-23
+157,RK Traders 157,Karnataka,Bengaluru,4.7,2024-05-07
+158,Trendy Zone 158,Delhi,New Delhi,3.5,2024-08-31
+159,Maa Collection 159,Delhi,New Delhi,3.9,2024-04-19
+160,RK Traders 160,Karnataka,Mysuru,4.9,2024-12-26
+161,Urban Store 161,Rajasthan,Kota,4.0,2025-04-17
+162,Urban Store 162,Delhi,New Delhi,3.5,2024-12-10
+163,Urban Store 163,Uttar Pradesh,Kanpur,3.5,2025-05-11
+164,RK Traders 164,Uttar Pradesh,Kanpur,4.3,2024-08-03
+165,Trendy Zone 165,Rajasthan,Banswara,5.0,2025-05-04
+166,RK Traders 166,Delhi,New Delhi,4.5,2025-05-04
+167,Style Point 167,Delhi,New Delhi,4.7,2024-03-30
+168,RK Traders 168,Rajasthan,Udaipur,4.4,2025-03-22
+169,Style Point 169,Delhi,New Delhi,3.6,2025-03-04
+170,Maa Collection 170,Rajasthan,Udaipur,3.7,2024-04-15
+171,Maa Collection 171,Karnataka,Mysuru,4.0,2025-02-08
+172,Maa Collection 172,Uttar Pradesh,Kanpur,3.6,2024-01-10
+173,Shree Fashion Hub 173,Delhi,New Delhi,3.7,2024-09-28
+174,Fashion Club 174,Delhi,New Delhi,4.1,2024-08-26
+175,Fashion Club 175,Rajasthan,Kota,3.7,2025-06-24
+176,Daily Needs 176,Karnataka,Bengaluru,4.7,2024-12-17
+177,Daily Needs 177,Karnataka,Bengaluru,3.5,2024-12-10
+178,RK Traders 178,Uttar Pradesh,Kanpur,4.7,2024-03-22
+179,Urban Store 179,Karnataka,Mysuru,4.1,2024-02-14
+180,RK Traders 180,Uttar Pradesh,Noida,4.5,2024-09-08
+181,Style Point 181,Gujarat,Surat,4.7,2024-01-26
+182,Style Point 182,Delhi,New Delhi,3.8,2024-06-16
+183,RK Traders 183,Gujarat,Ahmedabad,3.8,2024-02-12
+184,Trendy Zone 184,Uttar Pradesh,Noida,4.5,2025-04-28
+185,Royal Mart 185,Gujarat,Ahmedabad,4.1,2024-10-11
+186,RK Traders 186,Gujarat,Rajkot,3.8,2024-02-16
+187,Trendy Zone 187,Delhi,New Delhi,4.4,2024-04-11
+188,Fashion Club 188,Maharashtra,Mumbai,4.8,2024-11-21
+189,Daily Needs 189,Delhi,New Delhi,3.9,2024-08-04
+190,City Mart 190,Gujarat,Ahmedabad,4.7,2025-04-01
+191,Royal Mart 191,Delhi,New Delhi,4.3,2024-08-09
+192,Fashion Club 192,Maharashtra,Pune,4.9,2024-05-19
+193,Maa Collection 193,Rajasthan,Banswara,4.0,2024-10-27
+194,Fashion Club 194,Rajasthan,Udaipur,4.8,2024-07-06
+195,RK Traders 195,Uttar Pradesh,Kanpur,3.7,2024-03-26
+196,Maa Collection 196,Rajasthan,Udaipur,3.8,2024-09-15
+197,Urban Store 197,Karnataka,Mysuru,4.4,2024-08-25
+198,Daily Needs 198,Karnataka,Bengaluru,3.8,2024-07-22
+199,Trendy Zone 199,Rajasthan,Jaipur,3.6,2025-06-17
+200,Style Point 200,Gujarat,Ahmedabad,3.7,2025-04-29
+201,City Mart 201,Maharashtra,Mumbai,3.9,2024-12-05
+202,Daily Needs 202,Uttar Pradesh,Lucknow,4.8,2025-05-07
+203,RK Traders 203,Delhi,New Delhi,3.6,2024-10-12
+204,Shree Fashion Hub 204,Karnataka,Mysuru,4.6,2024-02-20
+205,Shree Fashion Hub 205,Uttar Pradesh,Lucknow,4.3,2024-10-23
+206,Fashion Club 206,Delhi,New Delhi,4.6,2024-07-04
+207,City Mart 207,Uttar Pradesh,Noida,5.0,2024-06-18
+208,Fashion Club 208,Gujarat,Rajkot,5.0,2025-02-28
+209,Daily Needs 209,Uttar Pradesh,Lucknow,4.0,2025-04-20
+210,City Mart 210,Karnataka,Mysuru,4.5,2024-08-04
+211,City Mart 211,Delhi,New Delhi,4.3,2025-01-10
+212,Urban Store 212,Rajasthan,Banswara,4.2,2025-04-21
+213,City Mart 213,Uttar Pradesh,Kanpur,3.5,2024-01-03
+214,Style Point 214,Gujarat,Surat,3.7,2024-02-19
+215,Style Point 215,Rajasthan,Banswara,4.4,2025-05-31
+216,Daily Needs 216,Delhi,New Delhi,3.9,2024-04-07
+217,Style Point 217,Uttar Pradesh,Noida,4.6,2024-12-03
+218,Daily Needs 218,Rajasthan,Jaipur,4.1,2024-12-17
+219,Shree Fashion Hub 219,Uttar Pradesh,Kanpur,3.7,2024-09-22
+220,Urban Store 220,Rajasthan,Banswara,3.8,2024-11-19
+221,Urban Store 221,Delhi,New Delhi,4.2,2025-02-15
+222,Shree Fashion Hub 222,Uttar Pradesh,Kanpur,4.8,2024-10-25
+223,Style Point 223,Karnataka,Mysuru,3.6,2024-08-23
+224,Trendy Zone 224,Delhi,New Delhi,4.5,2024-12-09
+225,Maa Collection 225,Rajasthan,Kota,4.3,2025-04-13
+226,Shree Fashion Hub 226,Gujarat,Rajkot,4.7,2024-10-12
+227,Urban Store 227,Karnataka,Bengaluru,3.6,2024-09-19
+228,Daily Needs 228,Karnataka,Bengaluru,3.6,2025-03-22
+229,Trendy Zone 229,Maharashtra,Pune,4.0,2025-04-16
+230,Royal Mart 230,Karnataka,Bengaluru,4.8,2025-02-15
+231,Royal Mart 231,Gujarat,Rajkot,4.1,2024-09-24
+232,Royal Mart 232,Gujarat,Surat,4.4,2025-01-01
+233,Royal Mart 233,Uttar Pradesh,Noida,3.6,2024-02-23
+234,Style Point 234,Rajasthan,Banswara,4.1,2025-06-23
+235,RK Traders 235,Maharashtra,Nagpur,3.7,2024-03-29
+236,Royal Mart 236,Maharashtra,Nagpur,4.5,2024-12-04
+237,Maa Collection 237,Karnataka,Bengaluru,4.3,2024-10-18
+238,Urban Store 238,Karnataka,Bengaluru,4.0,2024-04-22
+239,Urban Store 239,Gujarat,Surat,3.5,2024-10-26
+240,Shree Fashion Hub 240,Delhi,New Delhi,4.6,2024-12-18
+241,Daily Needs 241,Gujarat,Ahmedabad,4.3,2024-10-23
+242,Royal Mart 242,Uttar Pradesh,Noida,4.7,2024-09-29
+243,Shree Fashion Hub 243,Delhi,New Delhi,4.4,2024-02-22
+244,RK Traders 244,Rajasthan,Banswara,4.4,2024-02-22
+245,Maa Collection 245,Delhi,New Delhi,4.7,2025-02-27
+246,Daily Needs 246,Delhi,New Delhi,4.1,2025-01-21
+247,Trendy Zone 247,Gujarat,Rajkot,4.6,2024-12-18
+248,Urban Store 248,Rajasthan,Udaipur,4.4,2024-01-20
+249,Trendy Zone 249,Maharashtra,Nagpur,4.8,2024-07-20
+250,Maa Collection 250,Uttar Pradesh,Kanpur,4.7,2024-03-02
+251,Style Point 251,Karnataka,Mysuru,4.6,2024-06-22
+252,Style Point 252,Uttar Pradesh,Lucknow,4.7,2024-03-20
+253,Style Point 253,Uttar Pradesh,Kanpur,3.9,2024-07-27
+254,Trendy Zone 254,Karnataka,Mysuru,4.3,2025-06-22
+255,City Mart 255,Gujarat,Surat,3.7,2024-09-04
+256,Urban Store 256,Uttar Pradesh,Lucknow,4.2,2024-02-24
+257,Daily Needs 257,Maharashtra,Mumbai,4.2,2024-12-05
+258,Maa Collection 258,Maharashtra,Mumbai,3.8,2025-02-19
+259,Daily Needs 259,Delhi,New Delhi,3.8,2024-03-23
+260,City Mart 260,Uttar Pradesh,Lucknow,3.8,2025-02-23
+261,Fashion Club 261,Gujarat,Ahmedabad,5.0,2024-12-06
+262,Fashion Club 262,Maharashtra,Pune,3.9,2025-02-26
+263,Daily Needs 263,Karnataka,Bengaluru,4.8,2024-08-15
+264,Maa Collection 264,Uttar Pradesh,Kanpur,4.3,2024-05-31
+265,Royal Mart 265,Uttar Pradesh,Noida,3.6,2024-04-28
+266,Shree Fashion Hub 266,Karnataka,Bengaluru,3.9,2024-09-08
+267,Style Point 267,Maharashtra,Nagpur,4.6,2024-12-06
+268,RK Traders 268,Gujarat,Ahmedabad,3.5,2025-05-27
+269,Trendy Zone 269,Uttar Pradesh,Kanpur,4.5,2025-01-11
+270,RK Traders 270,Delhi,New Delhi,4.3,2025-06-03
+271,RK Traders 271,Maharashtra,Pune,4.6,2024-05-26
+272,Royal Mart 272,Gujarat,Surat,4.3,2024-01-02
+273,Daily Needs 273,Karnataka,Bengaluru,3.6,2024-03-15
+274,Trendy Zone 274,Rajasthan,Kota,3.7,2024-02-17
+275,City Mart 275,Uttar Pradesh,Kanpur,3.8,2024-11-22
+276,City Mart 276,Karnataka,Mysuru,3.5,2025-01-26
+277,Shree Fashion Hub 277,Delhi,New Delhi,3.7,2024-12-13
+278,Royal Mart 278,Rajasthan,Udaipur,4.7,2024-12-30
+279,Daily Needs 279,Gujarat,Ahmedabad,4.8,2025-04-22
+280,Shree Fashion Hub 280,Delhi,New Delhi,4.5,2024-12-18
+281,Maa Collection 281,Karnataka,Bengaluru,3.6,2024-07-17
+282,Shree Fashion Hub 282,Rajasthan,Udaipur,5.0,2024-02-02
+283,City Mart 283,Rajasthan,Udaipur,4.1,2024-09-14
+284,Style Point 284,Uttar Pradesh,Noida,3.5,2024-10-09
+285,Daily Needs 285,Rajasthan,Jaipur,3.8,2025-03-27
+286,Style Point 286,Uttar Pradesh,Kanpur,4.0,2024-11-24
+287,Shree Fashion Hub 287,Rajasthan,Banswara,4.7,2024-05-29
+288,City Mart 288,Maharashtra,Nagpur,4.4,2024-11-26
+289,Trendy Zone 289,Karnataka,Mysuru,3.8,2024-01-29
+290,Fashion Club 290,Delhi,New Delhi,4.2,2024-01-18
+291,Style Point 291,Gujarat,Rajkot,3.8,2025-02-21
+292,Trendy Zone 292,Delhi,New Delhi,4.4,2025-05-19
+293,Urban Store 293,Rajasthan,Banswara,4.0,2024-01-14
+294,Maa Collection 294,Karnataka,Bengaluru,4.8,2024-03-22
+295,Fashion Club 295,Karnataka,Bengaluru,4.1,2025-01-11
+296,Shree Fashion Hub 296,Karnataka,Bengaluru,3.7,2024-10-03
+297,Maa Collection 297,Karnataka,Bengaluru,4.5,2024-12-05
+298,Style Point 298,Delhi,New Delhi,4.6,2024-08-29
+299,Trendy Zone 299,Maharashtra,Pune,4.0,2024-11-03
+300,Royal Mart 300,Gujarat,Rajkot,5.0,2024-11-07

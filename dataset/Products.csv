@@ -1,0 +1,1501 @@
+Product_ID,Seller_ID,Product_Name,Category,Brand,Cost_Price,Selling_Price,Stock,Rating
+1,209,Mixer,Home & Kitchen,Prestige,1697,2371,117,4.3
+2,182,Bluetooth Earbuds,Electronics,Generic,1811,2937,182,4.9
+3,5,Storage Box,Home & Kitchen,Milton,2215,3585,380,4.8
+4,251,Men T-Shirt,Fashion,Lakme,2425,3279,376,4.2
+5,77,Shampoo,Beauty,Boat,1209,1559,163,4.9
+6,204,Tea,Grocery,Boat,286,468,45,4.5
+7,214,Men T-Shirt,Fashion,Generic,706,1015,72,4.8
+8,103,Bedsheet,Home & Kitchen,Generic,1770,2286,313,4.1
+9,7,Saree,Fashion,Mamaearth,1880,3103,378,4.5
+10,60,Tea,Grocery,Boat,1225,1672,349,4.8
+11,12,Storage Box,Home & Kitchen,Nike,1658,2242,122,4.0
+12,42,Saree,Fashion,Nike,848,1008,52,5.0
+13,37,Mixer,Home & Kitchen,Milton,143,166,300,3.5
+14,149,Lipstick,Beauty,Puma,2177,3126,64,5.0
+15,30,Mixer,Home & Kitchen,Mamaearth,441,652,158,4.7
+16,299,Spices,Grocery,Lakme,2215,2717,26,4.1
+17,62,Shampoo,Beauty,Boat,1536,2581,291,4.2
+18,176,Dry Fruits,Grocery,Milton,584,965,98,4.3
+19,86,Storage Box,Home & Kitchen,Mamaearth,2348,3660,352,4.2
+20,15,Saree,Fashion,Boat,773,1057,223,3.5
+21,167,Smart Watch,Electronics,Prestige,1369,1682,210,4.9
+22,278,Spices,Grocery,Lakme,1568,2735,23,3.9
+23,94,Women's Kurti,Fashion,Boat,2175,2527,146,4.9
+24,215,Spices,Grocery,Nike,994,1774,399,4.7
+25,254,Spices,Grocery,Generic,1464,2033,307,4.2
+26,60,Storage Box,Home & Kitchen,Lakme,1146,1953,218,3.5
+27,59,Spices,Grocery,Nike,1205,1755,156,4.1
+28,271,Spices,Grocery,Lakme,139,186,261,4.6
+29,1,Bedsheet,Home & Kitchen,Mamaearth,2298,3488,367,3.8
+30,263,Women's Kurti,Fashion,Generic,2415,3546,384,4.0
+31,18,Tea,Grocery,Lakme,2476,2977,198,3.6
+32,183,Power Bank,Electronics,Nike,1276,1706,168,3.7
+33,296,Storage Box,Home & Kitchen,Lakme,1255,1770,247,4.4
+34,49,Shampoo,Beauty,Puma,2068,2413,126,4.0
+35,112,Jeans,Fashion,Generic,1941,3056,221,3.6
+36,283,Women's Kurti,Fashion,Boat,1006,1234,369,3.9
+37,93,Tea,Grocery,Nike,214,309,98,4.1
+38,109,Tea,Grocery,Boat,736,1008,187,3.8
+39,21,Bluetooth Earbuds,Electronics,Prestige,2057,2775,22,4.0
+40,300,Spices,Grocery,Boat,1592,2410,77,4.7
+41,260,Face Wash,Beauty,Milton,1124,1624,261,4.7
+42,96,Storage Box,Home & Kitchen,Prestige,1008,1509,381,4.3
+43,186,Shampoo,Beauty,Nike,1641,2892,70,4.8
+44,255,Spices,Grocery,Lakme,1052,1679,103,3.7
+45,204,Jeans,Fashion,Boat,1701,2691,97,4.2
+46,197,Mixer,Home & Kitchen,Mamaearth,1081,1362,362,4.0
+47,24,Bedsheet,Home & Kitchen,Puma,573,915,174,4.6
+48,75,Bedsheet,Home & Kitchen,Generic,1322,2008,28,4.3
+49,99,Tea,Grocery,Boat,994,1751,231,4.9
+50,212,Mixer,Home & Kitchen,Mamaearth,1281,2133,242,3.7
+51,21,Mixer,Home & Kitchen,Prestige,448,788,226,4.1
+52,25,Shampoo,Beauty,Generic,935,1647,266,4.1
+53,264,Jeans,Fashion,Milton,1834,2490,243,3.6
+54,160,Women's Kurti,Fashion,Mamaearth,2243,3787,209,4.1
+55,19,Face Wash,Beauty,Boat,853,1362,273,4.7
+56,58,Power Bank,Electronics,Lakme,2055,2651,348,3.5
+57,30,Power Bank,Electronics,Generic,1967,2298,181,4.7
+58,162,Shampoo,Beauty,Milton,654,1001,197,4.8
+59,57,Women's Kurti,Fashion,Puma,1121,1994,80,5.0
+60,284,Face Wash,Beauty,Generic,995,1681,344,4.3
+61,234,Storage Box,Home & Kitchen,Boat,2120,2834,334,3.6
+62,43,Tea,Grocery,Boat,584,718,47,4.3
+63,210,Smart Watch,Electronics,Mamaearth,2202,2602,93,4.8
+64,156,Face Wash,Beauty,Prestige,507,681,251,4.3
+65,179,Smart Watch,Electronics,Generic,1167,1399,29,4.5
+66,214,Lipstick,Beauty,Prestige,1392,1659,400,4.6
+67,170,Shampoo,Beauty,Puma,231,324,140,4.3
+68,234,Bedsheet,Home & Kitchen,Mamaearth,1858,3023,139,3.6
+69,235,Spices,Grocery,Nike,1932,2903,211,4.6
+70,147,Men T-Shirt,Fashion,Lakme,1255,1996,196,4.1
+71,282,Power Bank,Electronics,Puma,1032,1296,195,4.5
+72,99,Spices,Grocery,Lakme,1544,2779,357,4.8
+73,64,Saree,Fashion,Puma,2387,3931,204,4.1
+74,3,Smart Watch,Electronics,Boat,2249,2677,365,4.0
+75,251,Bluetooth Earbuds,Electronics,Puma,401,643,397,4.8
+76,22,Dry Fruits,Grocery,Puma,797,1067,114,3.8
+77,188,Smart Watch,Electronics,Prestige,1252,1579,38,4.1
+78,241,Tea,Grocery,Nike,1268,2203,315,4.4
+79,243,Storage Box,Home & Kitchen,Lakme,895,1314,106,4.9
+80,267,Spices,Grocery,Prestige,811,1302,353,3.9
+81,12,Storage Box,Home & Kitchen,Puma,857,1478,353,4.9
+82,166,Storage Box,Home & Kitchen,Milton,1879,3368,262,4.2
+83,40,Storage Box,Home & Kitchen,Boat,2071,2541,120,3.9
+84,166,Face Wash,Beauty,Nike,805,1064,127,4.8
+85,74,Dry Fruits,Grocery,Puma,1614,2351,298,4.1
+86,277,Storage Box,Home & Kitchen,Prestige,2389,3861,77,4.9
+87,62,Power Bank,Electronics,Mamaearth,132,216,306,4.1
+88,266,Women's Kurti,Fashion,Milton,1474,2616,381,3.7
+89,57,Tea,Grocery,Nike,1398,2456,157,4.6
+90,212,Jeans,Fashion,Generic,116,206,310,4.7
+91,142,Lipstick,Beauty,Generic,841,1055,141,4.9
+92,163,Smart Watch,Electronics,Generic,212,339,163,4.6
+93,126,Power Bank,Electronics,Lakme,289,392,98,4.9
+94,28,Dry Fruits,Grocery,Lakme,1915,3018,155,3.7
+95,8,Dry Fruits,Grocery,Mamaearth,868,1394,377,4.1
+96,39,Tea,Grocery,Puma,1526,2501,44,4.5
+97,225,Power Bank,Electronics,Mamaearth,2224,3587,163,4.2
+98,36,Bluetooth Earbuds,Electronics,Milton,116,142,214,4.3
+99,59,Tea,Grocery,Milton,2415,3745,195,5.0
+100,10,Men T-Shirt,Fashion,Milton,1642,2115,235,4.9
+101,192,Mixer,Home & Kitchen,Boat,923,1233,304,4.5
+102,22,Storage Box,Home & Kitchen,Boat,1103,1974,96,3.8
+103,143,Mixer,Home & Kitchen,Lakme,1613,2427,316,3.9
+104,233,Storage Box,Home & Kitchen,Mamaearth,1616,2659,330,4.4
+105,91,Storage Box,Home & Kitchen,Puma,604,1013,110,4.6
+106,218,Lipstick,Beauty,Generic,714,914,389,4.7
+107,107,Tea,Grocery,Milton,1130,1323,32,4.7
+108,177,Tea,Grocery,Prestige,1366,1955,273,4.2
+109,260,Tea,Grocery,Lakme,1123,1540,246,4.7
+110,70,Men T-Shirt,Fashion,Lakme,1752,2822,142,4.5
+111,51,Bluetooth Earbuds,Electronics,Generic,901,1282,320,4.0
+112,132,Face Wash,Beauty,Lakme,167,222,384,4.9
+113,205,Storage Box,Home & Kitchen,Milton,763,1260,67,4.2
+114,30,Men T-Shirt,Fashion,Milton,475,788,80,4.9
+115,124,Bedsheet,Home & Kitchen,Lakme,534,751,212,4.1
+116,214,Face Wash,Beauty,Lakme,2264,2837,127,3.6
+117,224,Bedsheet,Home & Kitchen,Nike,2342,3992,369,3.9
+118,43,Storage Box,Home & Kitchen,Nike,441,606,30,4.7
+119,125,Bedsheet,Home & Kitchen,Mamaearth,1820,2149,246,4.0
+120,239,Smart Watch,Electronics,Lakme,1345,2078,178,4.3
+121,6,Bedsheet,Home & Kitchen,Generic,1989,2918,250,4.8
+122,166,Women's Kurti,Fashion,Generic,2212,2549,283,4.8
+123,262,Smart Watch,Electronics,Mamaearth,267,419,199,4.9
+124,37,Tea,Grocery,Prestige,949,1381,393,4.0
+125,295,Tea,Grocery,Milton,1297,1673,164,4.6
+126,172,Tea,Grocery,Puma,1940,2971,67,4.3
+127,234,Saree,Fashion,Generic,188,246,202,4.4
+128,224,Women's Kurti,Fashion,Generic,1750,2823,322,4.7
+129,170,Storage Box,Home & Kitchen,Prestige,962,1436,400,4.3
+130,236,Spices,Grocery,Puma,2421,3043,198,3.6
+131,64,Lipstick,Beauty,Prestige,994,1243,251,4.3
+132,102,Power Bank,Electronics,Boat,468,641,52,5.0
+133,175,Saree,Fashion,Prestige,819,1415,198,4.4
+134,81,Dry Fruits,Grocery,Prestige,2463,3588,324,4.3
+135,161,Dry Fruits,Grocery,Generic,374,478,143,3.6
+136,84,Bluetooth Earbuds,Electronics,Nike,2354,3637,317,3.7
+137,206,Bedsheet,Home & Kitchen,Generic,1062,1373,231,4.8
+138,94,Jeans,Fashion,Puma,1888,3240,108,4.0
+139,122,Dry Fruits,Grocery,Boat,241,365,154,4.7
+140,79,Smart Watch,Electronics,Milton,1666,2211,361,4.9
+141,184,Men T-Shirt,Fashion,Milton,761,1195,145,4.2
+142,207,Tea,Grocery,Generic,1641,2141,194,4.2
+143,14,Lipstick,Beauty,Mamaearth,2334,3273,159,3.8
+144,296,Face Wash,Beauty,Puma,2356,3752,60,4.3
+145,239,Shampoo,Beauty,Mamaearth,220,269,391,3.8
+146,50,Men T-Shirt,Fashion,Boat,1609,2194,227,3.8
+147,248,Bluetooth Earbuds,Electronics,Generic,2080,3656,141,3.6
+148,129,Shampoo,Beauty,Nike,772,1355,373,4.0
+149,43,Storage Box,Home & Kitchen,Prestige,2379,3191,340,4.9
+150,11,Face Wash,Beauty,Nike,1184,1457,265,3.7
+151,222,Face Wash,Beauty,Generic,1501,1903,276,4.7
+152,183,Men T-Shirt,Fashion,Prestige,874,1194,100,4.6
+153,80,Face Wash,Beauty,Lakme,1601,2646,118,3.7
+154,237,Storage Box,Home & Kitchen,Boat,1359,1613,147,3.6
+155,232,Tea,Grocery,Nike,2166,3700,246,4.6
+156,235,Lipstick,Beauty,Milton,2073,3146,100,3.6
+157,216,Power Bank,Electronics,Prestige,1701,3052,177,4.6
+158,204,Bluetooth Earbuds,Electronics,Milton,135,226,313,4.7
+159,207,Saree,Fashion,Puma,778,1365,355,4.3
+160,38,Mixer,Home & Kitchen,Boat,2319,3362,263,4.0
+161,251,Smart Watch,Electronics,Generic,1525,2148,384,4.0
+162,53,Mixer,Home & Kitchen,Prestige,1026,1211,123,4.6
+163,219,Smart Watch,Electronics,Puma,1700,2123,335,4.5
+164,265,Women's Kurti,Fashion,Generic,366,493,128,4.3
+165,210,Tea,Grocery,Nike,591,765,28,3.9
+166,55,Power Bank,Electronics,Mamaearth,1906,3120,400,4.7
+167,22,Dry Fruits,Grocery,Milton,1168,1822,365,3.6
+168,54,Storage Box,Home & Kitchen,Prestige,495,783,159,4.8
+169,205,Power Bank,Electronics,Generic,2248,3964,221,3.6
+170,169,Storage Box,Home & Kitchen,Puma,1572,2486,69,3.8
+171,75,Bluetooth Earbuds,Electronics,Milton,1607,1979,320,4.5
+172,184,Dry Fruits,Grocery,Puma,1718,2599,87,3.5
+173,42,Smart Watch,Electronics,Prestige,2122,2582,336,4.6
+174,162,Power Bank,Electronics,Nike,1098,1888,254,4.0
+175,62,Smart Watch,Electronics,Generic,2011,3175,184,4.8
+176,98,Face Wash,Beauty,Boat,2480,3633,307,3.7
+177,85,Power Bank,Electronics,Generic,1543,2682,42,4.6
+178,123,Shampoo,Beauty,Generic,1818,2508,371,3.8
+179,113,Saree,Fashion,Mamaearth,180,294,66,4.1
+180,240,Storage Box,Home & Kitchen,Nike,1742,3013,247,4.0
+181,273,Face Wash,Beauty,Puma,965,1146,350,3.9
+182,254,Face Wash,Beauty,Milton,2493,3430,153,3.9
+183,212,Bluetooth Earbuds,Electronics,Prestige,2338,3877,209,3.8
+184,277,Women's Kurti,Fashion,Prestige,1597,2005,293,3.6
+185,121,Face Wash,Beauty,Generic,1265,1904,105,4.3
+186,104,Power Bank,Electronics,Lakme,107,149,107,4.9
+187,248,Face Wash,Beauty,Prestige,2428,3728,284,3.5
+188,163,Bedsheet,Home & Kitchen,Boat,473,680,148,4.2
+189,48,Smart Watch,Electronics,Prestige,669,864,29,4.9
+190,14,Saree,Fashion,Nike,2092,3505,109,4.4
+191,19,Bedsheet,Home & Kitchen,Generic,1509,2447,91,4.0
+192,163,Bedsheet,Home & Kitchen,Boat,2276,3189,137,4.7
+193,25,Men T-Shirt,Fashion,Prestige,1288,2068,41,4.5
+194,75,Women's Kurti,Fashion,Boat,2286,3519,324,4.8
+195,73,Power Bank,Electronics,Boat,1843,2995,101,3.7
+196,153,Shampoo,Beauty,Puma,550,974,95,4.9
+197,58,Bluetooth Earbuds,Electronics,Lakme,2183,2986,354,4.4
+198,199,Mixer,Home & Kitchen,Lakme,268,388,357,4.7
+199,202,Bedsheet,Home & Kitchen,Lakme,530,897,183,4.3
+200,222,Mixer,Home & Kitchen,Nike,350,548,290,3.6
+201,235,Dry Fruits,Grocery,Puma,2197,3111,178,4.4
+202,139,Dry Fruits,Grocery,Puma,1322,2023,317,3.9
+203,124,Dry Fruits,Grocery,Mamaearth,356,438,329,4.5
+204,77,Mixer,Home & Kitchen,Mamaearth,2294,4098,281,4.6
+205,29,Bedsheet,Home & Kitchen,Milton,832,1491,400,3.8
+206,159,Lipstick,Beauty,Nike,1784,2241,49,4.9
+207,208,Spices,Grocery,Prestige,675,967,141,3.7
+208,246,Mixer,Home & Kitchen,Generic,1896,2585,286,4.3
+209,66,Face Wash,Beauty,Generic,1193,1636,297,4.2
+210,157,Bedsheet,Home & Kitchen,Prestige,960,1214,162,3.9
+211,23,Mixer,Home & Kitchen,Lakme,302,441,304,4.9
+212,129,Shampoo,Beauty,Nike,1127,1591,157,3.8
+213,50,Dry Fruits,Grocery,Mamaearth,2274,2937,96,4.0
+214,120,Spices,Grocery,Nike,2361,3417,254,4.2
+215,7,Smart Watch,Electronics,Boat,1766,2590,326,3.9
+216,111,Bluetooth Earbuds,Electronics,Prestige,948,1623,253,3.8
+217,105,Shampoo,Beauty,Mamaearth,931,1629,162,3.8
+218,90,Spices,Grocery,Boat,1623,1959,306,4.8
+219,200,Dry Fruits,Grocery,Mamaearth,624,844,193,4.0
+220,260,Bluetooth Earbuds,Electronics,Mamaearth,2463,3392,30,4.3
+221,266,Dry Fruits,Grocery,Milton,380,529,20,3.7
+222,4,Storage Box,Home & Kitchen,Nike,2445,2889,279,3.6
+223,9,Bluetooth Earbuds,Electronics,Nike,946,1551,356,4.0
+224,217,Shampoo,Beauty,Lakme,1927,3092,299,4.4
+225,87,Mixer,Home & Kitchen,Generic,2056,3678,250,3.7
+226,296,Mixer,Home & Kitchen,Milton,1468,2563,262,4.2
+227,191,Mixer,Home & Kitchen,Lakme,168,217,50,4.0
+228,265,Mixer,Home & Kitchen,Milton,1755,3064,221,3.8
+229,187,Power Bank,Electronics,Mamaearth,2063,2573,370,4.5
+230,281,Power Bank,Electronics,Mamaearth,581,793,395,3.6
+231,139,Tea,Grocery,Nike,395,632,215,3.7
+232,62,Mixer,Home & Kitchen,Puma,1267,2096,318,4.8
+233,161,Mixer,Home & Kitchen,Puma,389,561,321,4.0
+234,156,Smart Watch,Electronics,Mamaearth,1620,2528,167,4.4
+235,114,Dry Fruits,Grocery,Lakme,291,438,164,4.3
+236,78,Bluetooth Earbuds,Electronics,Puma,2256,3004,167,4.0
+237,106,Spices,Grocery,Milton,690,1135,126,4.6
+238,285,Men T-Shirt,Fashion,Puma,2116,2615,177,4.8
+239,73,Spices,Grocery,Boat,1825,2975,215,3.5
+240,42,Spices,Grocery,Prestige,2266,3348,364,3.9
+241,268,Shampoo,Beauty,Generic,942,1417,397,4.6
+242,203,Mixer,Home & Kitchen,Lakme,956,1386,70,4.0
+243,105,Bedsheet,Home & Kitchen,Prestige,170,299,257,3.6
+244,43,Shampoo,Beauty,Lakme,257,395,272,3.7
+245,10,Shampoo,Beauty,Mamaearth,1033,1775,106,4.5
+246,230,Smart Watch,Electronics,Prestige,1691,1952,143,4.5
+247,204,Storage Box,Home & Kitchen,Milton,2403,3146,56,4.2
+248,180,Power Bank,Electronics,Mamaearth,2184,3899,390,4.0
+249,160,Jeans,Fashion,Lakme,1243,2043,255,4.4
+250,205,Storage Box,Home & Kitchen,Milton,2364,3110,87,5.0
+251,60,Lipstick,Beauty,Puma,186,272,295,4.7
+252,70,Smart Watch,Electronics,Boat,1150,2004,221,4.8
+253,274,Face Wash,Beauty,Boat,251,303,269,4.5
+254,265,Power Bank,Electronics,Prestige,1348,2040,373,4.3
+255,106,Mixer,Home & Kitchen,Boat,1953,2256,374,4.2
+256,179,Shampoo,Beauty,Milton,1615,1894,372,4.6
+257,250,Men T-Shirt,Fashion,Milton,1478,2418,47,4.6
+258,28,Jeans,Fashion,Mamaearth,1783,2917,179,4.4
+259,43,Mixer,Home & Kitchen,Puma,886,1105,397,4.6
+260,78,Power Bank,Electronics,Puma,219,318,109,4.3
+261,49,Lipstick,Beauty,Lakme,849,1308,343,4.0
+262,202,Storage Box,Home & Kitchen,Nike,505,809,236,4.8
+263,104,Power Bank,Electronics,Puma,410,573,359,3.6
+264,177,Face Wash,Beauty,Prestige,1329,1609,161,3.7
+265,175,Power Bank,Electronics,Prestige,998,1332,66,4.7
+266,272,Jeans,Fashion,Lakme,248,331,228,4.4
+267,137,Spices,Grocery,Lakme,1861,3181,350,3.5
+268,94,Women's Kurti,Fashion,Generic,636,767,269,4.4
+269,92,Face Wash,Beauty,Puma,2138,2759,249,4.9
+270,223,Tea,Grocery,Prestige,1170,1627,27,4.4
+271,109,Jeans,Fashion,Milton,970,1631,183,4.1
+272,222,Tea,Grocery,Boat,1769,2666,148,3.7
+273,146,Bluetooth Earbuds,Electronics,Lakme,2187,3787,175,4.3
+274,51,Jeans,Fashion,Generic,1387,2162,232,4.1
+275,252,Mixer,Home & Kitchen,Generic,154,246,165,4.7
+276,74,Spices,Grocery,Boat,2470,3338,164,3.6
+277,155,Mixer,Home & Kitchen,Milton,1259,1965,188,4.5
+278,85,Storage Box,Home & Kitchen,Nike,417,499,275,4.3
+279,90,Women's Kurti,Fashion,Milton,2202,3012,198,3.8
+280,221,Smart Watch,Electronics,Milton,1934,2478,108,3.6
+281,93,Smart Watch,Electronics,Lakme,1313,1804,183,5.0
+282,109,Bluetooth Earbuds,Electronics,Boat,663,1128,149,4.5
+283,158,Bedsheet,Home & Kitchen,Mamaearth,746,944,28,3.5
+284,12,Shampoo,Beauty,Mamaearth,150,215,86,4.7
+285,158,Storage Box,Home & Kitchen,Generic,2058,2607,372,3.5
+286,34,Lipstick,Beauty,Milton,2195,3276,43,4.0
+287,23,Shampoo,Beauty,Mamaearth,746,881,38,4.7
+288,109,Bedsheet,Home & Kitchen,Milton,814,995,278,4.2
+289,190,Dry Fruits,Grocery,Mamaearth,1429,2393,75,4.9
+290,100,Spices,Grocery,Puma,1661,2209,319,4.8
+291,63,Lipstick,Beauty,Generic,1413,2374,291,4.3
+292,3,Shampoo,Beauty,Prestige,458,752,82,4.5
+293,22,Tea,Grocery,Puma,349,576,182,3.8
+294,294,Smart Watch,Electronics,Mamaearth,1683,2154,55,3.7
+295,213,Bluetooth Earbuds,Electronics,Prestige,611,797,152,4.9
+296,275,Power Bank,Electronics,Prestige,780,1165,214,4.9
+297,22,Mixer,Home & Kitchen,Prestige,1171,1367,295,4.5
+298,139,Storage Box,Home & Kitchen,Generic,555,678,332,4.2
+299,28,Bluetooth Earbuds,Electronics,Mamaearth,2475,3496,291,4.0
+300,162,Face Wash,Beauty,Generic,1035,1587,388,4.3
+301,226,Women's Kurti,Fashion,Boat,839,1093,123,3.6
+302,42,Mixer,Home & Kitchen,Boat,1688,1972,62,4.6
+303,191,Shampoo,Beauty,Puma,2400,3813,150,4.4
+304,163,Lipstick,Beauty,Prestige,1343,2154,86,4.9
+305,36,Men T-Shirt,Fashion,Puma,2392,3606,210,4.2
+306,132,Face Wash,Beauty,Lakme,1770,2925,356,5.0
+307,217,Spices,Grocery,Nike,452,704,79,3.6
+308,90,Dry Fruits,Grocery,Boat,864,1535,188,3.9
+309,275,Mixer,Home & Kitchen,Prestige,1393,1861,356,4.0
+310,46,Tea,Grocery,Mamaearth,1236,2222,116,4.5
+311,264,Face Wash,Beauty,Milton,867,1149,57,4.3
+312,130,Dry Fruits,Grocery,Milton,1299,1967,206,4.7
+313,78,Face Wash,Beauty,Milton,1780,2173,241,4.4
+314,39,Bluetooth Earbuds,Electronics,Mamaearth,2005,2514,52,4.3
+315,30,Bedsheet,Home & Kitchen,Puma,1869,2591,134,4.6
+316,48,Lipstick,Beauty,Lakme,1780,3086,317,4.5
+317,72,Bluetooth Earbuds,Electronics,Milton,283,407,260,4.7
+318,291,Jeans,Fashion,Puma,295,345,373,4.0
+319,193,Men T-Shirt,Fashion,Boat,1869,2487,384,4.9
+320,113,Smart Watch,Electronics,Lakme,248,333,240,4.8
+321,286,Mixer,Home & Kitchen,Nike,2335,2857,299,4.0
+322,128,Bedsheet,Home & Kitchen,Mamaearth,1877,2556,201,4.7
+323,5,Spices,Grocery,Mamaearth,2060,2592,380,4.2
+324,146,Bluetooth Earbuds,Electronics,Generic,1906,3259,218,5.0
+325,225,Smart Watch,Electronics,Lakme,1767,2957,232,4.4
+326,239,Bedsheet,Home & Kitchen,Puma,233,296,148,4.8
+327,137,Storage Box,Home & Kitchen,Milton,1261,1609,102,3.7
+328,26,Shampoo,Beauty,Puma,644,1143,207,4.2
+329,267,Lipstick,Beauty,Prestige,1387,2213,266,4.6
+330,244,Saree,Fashion,Generic,84,138,37,4.2
+331,68,Dry Fruits,Grocery,Lakme,216,261,133,4.1
+332,277,Women's Kurti,Fashion,Boat,902,1595,130,4.1
+333,6,Smart Watch,Electronics,Nike,198,275,128,4.0
+334,288,Women's Kurti,Fashion,Lakme,124,223,254,4.1
+335,21,Smart Watch,Electronics,Prestige,473,711,232,4.2
+336,208,Spices,Grocery,Mamaearth,2056,3144,191,3.9
+337,144,Bluetooth Earbuds,Electronics,Boat,2040,3553,393,4.5
+338,217,Tea,Grocery,Generic,882,1517,294,4.5
+339,36,Mixer,Home & Kitchen,Prestige,1643,2486,346,4.9
+340,127,Men T-Shirt,Fashion,Boat,874,1332,186,4.7
+341,168,Face Wash,Beauty,Puma,1299,2107,74,3.6
+342,293,Spices,Grocery,Prestige,678,1105,391,4.6
+343,145,Bluetooth Earbuds,Electronics,Generic,2470,3428,352,3.6
+344,89,Storage Box,Home & Kitchen,Lakme,2397,2780,276,3.9
+345,215,Bluetooth Earbuds,Electronics,Boat,1207,1849,40,4.0
+346,44,Men T-Shirt,Fashion,Puma,1833,2454,62,4.9
+347,152,Spices,Grocery,Puma,671,1041,111,4.8
+348,94,Smart Watch,Electronics,Nike,2102,3585,353,4.9
+349,115,Tea,Grocery,Nike,1456,2054,396,4.4
+350,289,Spices,Grocery,Mamaearth,2451,3878,384,3.6
+351,186,Bluetooth Earbuds,Electronics,Generic,526,833,309,4.8
+352,247,Face Wash,Beauty,Boat,1708,2847,323,4.2
+353,104,Smart Watch,Electronics,Boat,172,288,89,3.6
+354,136,Shampoo,Beauty,Milton,860,1152,243,3.9
+355,279,Women's Kurti,Fashion,Nike,2088,3598,100,4.8
+356,244,Storage Box,Home & Kitchen,Puma,159,278,57,4.7
+357,25,Spices,Grocery,Generic,1422,2346,248,3.8
+358,297,Lipstick,Beauty,Boat,2000,3045,126,5.0
+359,69,Mixer,Home & Kitchen,Generic,928,1144,215,4.2
+360,298,Dry Fruits,Grocery,Nike,1179,1386,105,4.0
+361,32,Dry Fruits,Grocery,Puma,1781,3151,345,3.8
+362,196,Lipstick,Beauty,Generic,2145,3430,29,4.2
+363,77,Saree,Fashion,Generic,839,1141,226,3.6
+364,5,Spices,Grocery,Puma,1041,1269,72,4.8
+365,117,Dry Fruits,Grocery,Lakme,851,1117,123,4.4
+366,90,Face Wash,Beauty,Prestige,2419,3668,68,3.8
+367,118,Bedsheet,Home & Kitchen,Lakme,2099,3723,59,3.9
+368,44,Tea,Grocery,Lakme,749,946,177,3.6
+369,15,Lipstick,Beauty,Prestige,121,209,48,4.8
+370,79,Dry Fruits,Grocery,Lakme,114,160,79,4.4
+371,270,Power Bank,Electronics,Boat,380,453,348,4.6
+372,107,Men T-Shirt,Fashion,Puma,1864,2619,268,4.9
+373,35,Lipstick,Beauty,Puma,1657,2119,265,4.6
+374,126,Bedsheet,Home & Kitchen,Generic,2325,3736,78,4.1
+375,220,Saree,Fashion,Nike,1539,2450,72,4.3
+376,72,Face Wash,Beauty,Generic,1909,3369,220,5.0
+377,165,Mixer,Home & Kitchen,Puma,2355,3652,363,4.4
+378,224,Lipstick,Beauty,Generic,988,1586,247,4.1
+379,130,Jeans,Fashion,Milton,1889,3121,277,4.8
+380,43,Storage Box,Home & Kitchen,Mamaearth,1205,2135,121,4.9
+381,295,Women's Kurti,Fashion,Nike,282,470,299,3.8
+382,106,Bluetooth Earbuds,Electronics,Lakme,1350,1622,55,3.7
+383,2,Tea,Grocery,Nike,2437,3978,68,3.6
+384,289,Storage Box,Home & Kitchen,Boat,1415,2400,146,4.8
+385,271,Lipstick,Beauty,Boat,308,430,271,4.3
+386,86,Dry Fruits,Grocery,Milton,1577,1847,332,4.5
+387,15,Shampoo,Beauty,Mamaearth,476,590,99,4.5
+388,130,Tea,Grocery,Milton,1367,2267,281,4.2
+389,3,Bedsheet,Home & Kitchen,Prestige,1407,1711,139,4.5
+390,37,Lipstick,Beauty,Mamaearth,1580,2656,46,3.7
+391,120,Jeans,Fashion,Mamaearth,2143,3848,360,4.0
+392,242,Storage Box,Home & Kitchen,Lakme,334,413,42,4.9
+393,197,Dry Fruits,Grocery,Prestige,1358,1876,189,3.6
+394,192,Shampoo,Beauty,Puma,1620,2425,202,4.0
+395,260,Men T-Shirt,Fashion,Lakme,774,935,184,5.0
+396,117,Smart Watch,Electronics,Puma,707,1211,64,4.2
+397,267,Dry Fruits,Grocery,Prestige,1976,2445,253,4.1
+398,236,Spices,Grocery,Lakme,2212,2554,349,3.7
+399,194,Bedsheet,Home & Kitchen,Puma,2299,2872,382,4.6
+400,183,Face Wash,Beauty,Nike,1060,1631,192,3.5
+401,269,Saree,Fashion,Puma,1127,1495,26,4.9
+402,235,Bluetooth Earbuds,Electronics,Lakme,1717,2195,146,4.5
+403,215,Bedsheet,Home & Kitchen,Generic,408,669,346,4.9
+404,264,Bedsheet,Home & Kitchen,Generic,2026,3581,225,5.0
+405,127,Power Bank,Electronics,Mamaearth,2377,2928,116,4.0
+406,141,Face Wash,Beauty,Nike,1980,2694,359,4.4
+407,46,Power Bank,Electronics,Boat,568,899,143,4.6
+408,60,Shampoo,Beauty,Mamaearth,1655,2480,345,4.4
+409,267,Spices,Grocery,Prestige,463,820,30,4.2
+410,166,Lipstick,Beauty,Prestige,887,1103,79,4.1
+411,24,Tea,Grocery,Prestige,1365,1804,41,4.9
+412,236,Tea,Grocery,Puma,1975,2324,349,4.4
+413,184,Storage Box,Home & Kitchen,Boat,281,403,300,4.3
+414,262,Tea,Grocery,Puma,2275,4060,313,4.0
+415,282,Smart Watch,Electronics,Boat,1142,1775,132,4.8
+416,283,Spices,Grocery,Milton,118,175,55,3.8
+417,173,Saree,Fashion,Lakme,511,596,276,4.5
+418,179,Storage Box,Home & Kitchen,Milton,1155,1549,66,3.5
+419,159,Storage Box,Home & Kitchen,Mamaearth,2146,3127,234,5.0
+420,143,Bluetooth Earbuds,Electronics,Prestige,1801,2712,179,4.0
+421,130,Spices,Grocery,Prestige,205,272,125,4.3
+422,137,Women's Kurti,Fashion,Lakme,968,1326,112,4.2
+423,133,Tea,Grocery,Milton,969,1583,262,3.8
+424,270,Women's Kurti,Fashion,Nike,354,584,243,3.6
+425,277,Bedsheet,Home & Kitchen,Mamaearth,2143,3486,320,4.3
+426,85,Dry Fruits,Grocery,Boat,1076,1672,293,4.0
+427,248,Spices,Grocery,Milton,170,300,180,4.1
+428,59,Men T-Shirt,Fashion,Mamaearth,2345,3128,367,4.0
+429,273,Face Wash,Beauty,Lakme,1523,1894,54,4.9
+430,36,Mixer,Home & Kitchen,Nike,2479,3010,143,3.7
+431,103,Shampoo,Beauty,Puma,436,703,300,3.7
+432,189,Smart Watch,Electronics,Prestige,2432,3854,146,4.4
+433,62,Bedsheet,Home & Kitchen,Milton,941,1170,227,4.0
+434,295,Smart Watch,Electronics,Boat,316,429,129,3.5
+435,223,Power Bank,Electronics,Mamaearth,1284,1583,274,4.5
+436,237,Power Bank,Electronics,Milton,1978,3435,35,4.1
+437,239,Mixer,Home & Kitchen,Lakme,2416,3107,363,4.0
+438,223,Women's Kurti,Fashion,Mamaearth,746,1061,239,3.7
+439,261,Saree,Fashion,Generic,949,1100,153,4.7
+440,7,Dry Fruits,Grocery,Prestige,1339,2359,84,3.8
+441,138,Mixer,Home & Kitchen,Mamaearth,1272,1714,308,4.7
+442,225,Shampoo,Beauty,Puma,854,1333,257,3.8
+443,35,Power Bank,Electronics,Puma,1716,2691,35,4.9
+444,96,Saree,Fashion,Prestige,1163,2042,69,4.2
+445,266,Bluetooth Earbuds,Electronics,Milton,2407,3618,198,4.2
+446,270,Dry Fruits,Grocery,Boat,1877,2780,159,3.7
+447,178,Bluetooth Earbuds,Electronics,Boat,1607,1868,306,4.2
+448,179,Dry Fruits,Grocery,Lakme,672,920,157,4.3
+449,137,Jeans,Fashion,Nike,601,882,191,3.8
+450,38,Storage Box,Home & Kitchen,Nike,102,132,39,4.1
+451,271,Tea,Grocery,Nike,1735,2441,162,4.4
+452,64,Lipstick,Beauty,Generic,1053,1651,248,4.2
+453,285,Smart Watch,Electronics,Puma,1370,1850,117,4.0
+454,60,Spices,Grocery,Nike,1763,2843,264,4.9
+455,172,Spices,Grocery,Milton,1188,1512,99,4.5
+456,126,Power Bank,Electronics,Generic,539,682,69,4.7
+457,21,Power Bank,Electronics,Puma,815,1447,295,4.7
+458,82,Bluetooth Earbuds,Electronics,Nike,2437,3500,142,4.7
+459,162,Women's Kurti,Fashion,Mamaearth,1673,2907,393,4.2
+460,291,Dry Fruits,Grocery,Mamaearth,1548,1941,205,4.6
+461,20,Bedsheet,Home & Kitchen,Puma,1929,3440,57,4.1
+462,121,Saree,Fashion,Mamaearth,1637,2331,192,4.4
+463,117,Tea,Grocery,Boat,2280,3572,295,4.2
+464,31,Bluetooth Earbuds,Electronics,Mamaearth,995,1497,275,4.2
+465,223,Storage Box,Home & Kitchen,Prestige,414,507,267,3.8
+466,262,Power Bank,Electronics,Puma,1163,1527,196,4.4
+467,62,Bluetooth Earbuds,Electronics,Lakme,1384,2315,154,4.1
+468,227,Storage Box,Home & Kitchen,Lakme,1981,2946,119,3.8
+469,93,Power Bank,Electronics,Generic,1958,2608,22,3.6
+470,160,Lipstick,Beauty,Lakme,1053,1757,359,4.0
+471,113,Bluetooth Earbuds,Electronics,Lakme,1943,2462,265,4.1
+472,186,Jeans,Fashion,Lakme,2474,4076,316,3.8
+473,29,Bluetooth Earbuds,Electronics,Boat,275,417,347,3.8
+474,197,Smart Watch,Electronics,Mamaearth,2362,3778,107,4.8
+475,61,Lipstick,Beauty,Boat,2072,3502,154,4.2
+476,194,Power Bank,Electronics,Lakme,2482,3347,177,4.4
+477,150,Bluetooth Earbuds,Electronics,Milton,92,124,278,3.9
+478,111,Bluetooth Earbuds,Electronics,Prestige,2330,3129,183,4.0
+479,74,Mixer,Home & Kitchen,Lakme,901,1207,27,4.8
+480,289,Bluetooth Earbuds,Electronics,Nike,1450,1972,391,3.9
+481,8,Shampoo,Beauty,Nike,2206,2710,160,4.3
+482,43,Spices,Grocery,Puma,612,900,242,4.8
+483,141,Tea,Grocery,Prestige,317,404,38,3.5
+484,225,Women's Kurti,Fashion,Lakme,1063,1634,279,3.8
+485,273,Storage Box,Home & Kitchen,Generic,543,945,385,4.5
+486,143,Tea,Grocery,Generic,593,835,54,3.8
+487,70,Shampoo,Beauty,Puma,877,1314,286,4.3
+488,249,Bluetooth Earbuds,Electronics,Generic,1510,2529,314,4.6
+489,4,Men T-Shirt,Fashion,Lakme,1896,2641,244,4.2
+490,290,Saree,Fashion,Puma,2075,2539,394,4.1
+491,273,Men T-Shirt,Fashion,Prestige,2318,3768,242,4.5
+492,88,Power Bank,Electronics,Prestige,1430,2043,59,4.8
+493,163,Face Wash,Beauty,Boat,111,181,101,3.9
+494,285,Bluetooth Earbuds,Electronics,Prestige,619,897,154,4.0
+495,73,Power Bank,Electronics,Generic,2191,2696,284,4.3
+496,193,Men T-Shirt,Fashion,Lakme,2352,3460,120,4.5
+497,229,Face Wash,Beauty,Boat,653,839,120,4.5
+498,219,Jeans,Fashion,Milton,1493,2153,89,4.9
+499,46,Smart Watch,Electronics,Generic,1874,2685,317,4.3
+500,176,Lipstick,Beauty,Mamaearth,480,687,389,4.9
+501,296,Power Bank,Electronics,Nike,282,450,288,4.1
+502,152,Women's Kurti,Fashion,Lakme,862,1056,108,4.0
+503,18,Bluetooth Earbuds,Electronics,Milton,304,537,105,3.9
+504,17,Smart Watch,Electronics,Milton,939,1366,200,4.7
+505,20,Women's Kurti,Fashion,Puma,1857,3266,181,4.3
+506,24,Jeans,Fashion,Mamaearth,477,768,151,4.8
+507,90,Bluetooth Earbuds,Electronics,Milton,594,763,123,3.8
+508,261,Power Bank,Electronics,Boat,388,522,64,4.0
+509,179,Saree,Fashion,Milton,329,407,124,4.8
+510,182,Bedsheet,Home & Kitchen,Generic,2054,2418,314,4.2
+511,210,Power Bank,Electronics,Mamaearth,482,677,42,3.8
+512,270,Smart Watch,Electronics,Mamaearth,2237,2600,40,4.1
+513,57,Shampoo,Beauty,Lakme,246,295,173,4.2
+514,205,Bedsheet,Home & Kitchen,Mamaearth,1763,2638,235,4.8
+515,49,Power Bank,Electronics,Milton,1626,2287,180,3.7
+516,101,Shampoo,Beauty,Nike,1494,2527,149,3.9
+517,139,Smart Watch,Electronics,Boat,556,711,257,4.8
+518,80,Lipstick,Beauty,Boat,539,946,167,4.2
+519,71,Mixer,Home & Kitchen,Boat,2052,2988,39,4.7
+520,193,Lipstick,Beauty,Milton,607,797,51,4.5
+521,203,Spices,Grocery,Boat,2099,2903,323,3.7
+522,120,Storage Box,Home & Kitchen,Lakme,1416,2165,277,3.8
+523,52,Power Bank,Electronics,Mamaearth,333,516,250,4.1
+524,128,Bedsheet,Home & Kitchen,Lakme,1815,2736,388,4.0
+525,123,Mixer,Home & Kitchen,Prestige,1379,2404,103,4.7
+526,259,Face Wash,Beauty,Mamaearth,2496,3747,193,3.9
+527,192,Lipstick,Beauty,Generic,2417,4076,224,4.6
+528,130,Men T-Shirt,Fashion,Lakme,1198,1877,195,4.1
+529,144,Storage Box,Home & Kitchen,Mamaearth,1565,2345,183,4.4
+530,56,Lipstick,Beauty,Generic,1566,1997,66,4.6
+531,15,Face Wash,Beauty,Nike,1537,2617,89,4.7
+532,235,Bluetooth Earbuds,Electronics,Mamaearth,1236,1905,278,3.8
+533,254,Spices,Grocery,Lakme,533,676,125,4.1
+534,295,Bedsheet,Home & Kitchen,Puma,785,954,283,4.1
+535,112,Mixer,Home & Kitchen,Generic,83,130,350,5.0
+536,228,Jeans,Fashion,Nike,2052,3288,141,4.6
+537,181,Tea,Grocery,Prestige,1609,2153,296,4.8
+538,157,Smart Watch,Electronics,Nike,893,1062,255,4.5
+539,240,Bluetooth Earbuds,Electronics,Boat,1593,1844,117,4.7
+540,268,Storage Box,Home & Kitchen,Mamaearth,1178,1821,313,3.5
+541,120,Tea,Grocery,Mamaearth,1103,1926,343,3.7
+542,200,Bluetooth Earbuds,Electronics,Nike,2361,3515,176,4.6
+543,218,Men T-Shirt,Fashion,Mamaearth,783,1075,396,4.4
+544,71,Spices,Grocery,Nike,1818,2116,311,4.5
+545,121,Jeans,Fashion,Generic,2102,2452,182,3.9
+546,231,Storage Box,Home & Kitchen,Boat,198,331,86,3.6
+547,218,Saree,Fashion,Mamaearth,1228,2135,363,4.5
+548,223,Tea,Grocery,Milton,288,454,322,4.6
+549,181,Bluetooth Earbuds,Electronics,Generic,1302,2222,284,4.4
+550,29,Tea,Grocery,Boat,2399,4002,265,4.7
+551,293,Storage Box,Home & Kitchen,Prestige,1640,2937,229,4.1
+552,258,Shampoo,Beauty,Nike,2188,3337,124,4.4
+553,224,Face Wash,Beauty,Mamaearth,832,1465,287,3.9
+554,222,Shampoo,Beauty,Prestige,1967,3278,66,4.7
+555,151,Women's Kurti,Fashion,Lakme,931,1234,96,4.3
+556,30,Lipstick,Beauty,Lakme,2413,3250,213,4.7
+557,295,Men T-Shirt,Fashion,Generic,221,357,298,4.7
+558,227,Tea,Grocery,Boat,730,1001,45,3.9
+559,71,Men T-Shirt,Fashion,Mamaearth,1699,2282,206,3.7
+560,151,Spices,Grocery,Generic,473,591,303,3.9
+561,129,Lipstick,Beauty,Prestige,1349,1865,171,4.2
+562,105,Lipstick,Beauty,Nike,248,367,326,4.3
+563,295,Face Wash,Beauty,Prestige,278,345,256,4.1
+564,80,Shampoo,Beauty,Puma,2308,3501,238,4.5
+565,242,Shampoo,Beauty,Nike,2186,3654,380,4.3
+566,204,Power Bank,Electronics,Mamaearth,1766,2087,254,4.7
+567,128,Bedsheet,Home & Kitchen,Mamaearth,506,593,220,4.1
+568,145,Men T-Shirt,Fashion,Prestige,1128,1977,380,4.1
+569,78,Power Bank,Electronics,Lakme,1266,1490,33,3.6
+570,265,Bluetooth Earbuds,Electronics,Milton,2050,3667,23,4.7
+571,204,Face Wash,Beauty,Mamaearth,1910,3347,44,3.6
+572,116,Storage Box,Home & Kitchen,Lakme,1556,2256,225,4.6
+573,109,Face Wash,Beauty,Milton,1821,2694,284,4.8
+574,88,Power Bank,Electronics,Boat,1954,2867,358,4.1
+575,17,Smart Watch,Electronics,Mamaearth,2213,2777,50,3.8
+576,132,Mixer,Home & Kitchen,Boat,2473,3628,66,4.9
+577,259,Men T-Shirt,Fashion,Nike,397,608,369,4.5
+578,221,Storage Box,Home & Kitchen,Nike,1090,1858,226,4.0
+579,265,Jeans,Fashion,Prestige,1525,1935,314,4.6
+580,294,Bedsheet,Home & Kitchen,Nike,2001,2643,369,4.2
+581,8,Shampoo,Beauty,Lakme,1615,1887,332,3.9
+582,121,Bluetooth Earbuds,Electronics,Lakme,1676,2339,265,3.8
+583,114,Lipstick,Beauty,Mamaearth,611,1021,147,4.6
+584,237,Bluetooth Earbuds,Electronics,Milton,722,1297,55,4.6
+585,242,Smart Watch,Electronics,Nike,345,412,300,4.8
+586,31,Face Wash,Beauty,Prestige,1597,1986,375,4.3
+587,69,Lipstick,Beauty,Nike,2132,3563,36,4.6
+588,159,Bluetooth Earbuds,Electronics,Prestige,2252,3836,41,3.5
+589,192,Lipstick,Beauty,Generic,1074,1411,229,4.0
+590,118,Lipstick,Beauty,Mamaearth,2050,2397,68,4.2
+591,38,Storage Box,Home & Kitchen,Boat,882,1534,71,4.1
+592,258,Dry Fruits,Grocery,Lakme,1330,1926,131,4.6
+593,226,Dry Fruits,Grocery,Lakme,2023,3549,396,4.9
+594,218,Tea,Grocery,Boat,1453,2069,285,4.0
+595,152,Mixer,Home & Kitchen,Milton,756,1007,393,3.9
+596,255,Lipstick,Beauty,Mamaearth,344,530,281,4.2
+597,189,Dry Fruits,Grocery,Milton,690,822,373,4.7
+598,94,Storage Box,Home & Kitchen,Generic,1732,2809,278,4.3
+599,256,Face Wash,Beauty,Boat,1989,3169,310,3.7
+600,131,Women's Kurti,Fashion,Mamaearth,2344,3105,321,4.3
+601,76,Men T-Shirt,Fashion,Lakme,1488,2069,95,4.3
+602,252,Saree,Fashion,Mamaearth,722,1151,62,4.1
+603,255,Lipstick,Beauty,Puma,977,1408,296,4.6
+604,211,Jeans,Fashion,Generic,108,160,76,4.3
+605,183,Smart Watch,Electronics,Nike,2069,2999,162,4.1
+606,191,Mixer,Home & Kitchen,Prestige,2442,3232,259,5.0
+607,132,Mixer,Home & Kitchen,Prestige,346,604,382,3.5
+608,133,Shampoo,Beauty,Boat,2368,3934,213,4.2
+609,277,Face Wash,Beauty,Boat,741,929,391,4.6
+610,141,Saree,Fashion,Boat,536,957,101,4.4
+611,198,Spices,Grocery,Generic,1033,1506,314,4.8
+612,166,Smart Watch,Electronics,Puma,127,154,304,4.3
+613,32,Saree,Fashion,Generic,827,1214,385,4.2
+614,34,Men T-Shirt,Fashion,Puma,1645,2692,288,3.6
+615,208,Power Bank,Electronics,Boat,2339,3280,271,3.7
+616,269,Men T-Shirt,Fashion,Prestige,1163,1802,36,4.0
+617,65,Power Bank,Electronics,Milton,2369,4210,205,4.3
+618,284,Bedsheet,Home & Kitchen,Puma,2495,3661,142,3.9
+619,115,Dry Fruits,Grocery,Milton,1451,2556,86,4.3
+620,13,Bedsheet,Home & Kitchen,Lakme,1677,2363,298,5.0
+621,233,Shampoo,Beauty,Puma,1074,1623,146,3.8
+622,17,Storage Box,Home & Kitchen,Milton,1675,2590,315,4.3
+623,4,Bedsheet,Home & Kitchen,Nike,1477,2505,304,4.6
+624,254,Tea,Grocery,Boat,1564,2135,179,4.5
+625,66,Lipstick,Beauty,Nike,2295,3394,260,4.5
+626,60,Mixer,Home & Kitchen,Mamaearth,2094,3393,24,4.0
+627,291,Bedsheet,Home & Kitchen,Prestige,801,970,51,4.2
+628,100,Mixer,Home & Kitchen,Prestige,426,510,377,4.7
+629,173,Jeans,Fashion,Puma,398,658,130,3.8
+630,172,Tea,Grocery,Prestige,415,535,148,4.9
+631,282,Tea,Grocery,Milton,2322,2879,73,4.5
+632,44,Lipstick,Beauty,Nike,1537,2082,115,4.6
+633,114,Smart Watch,Electronics,Nike,2423,3751,215,4.4
+634,246,Dry Fruits,Grocery,Mamaearth,1483,2404,240,4.6
+635,22,Dry Fruits,Grocery,Nike,1758,3047,168,4.6
+636,27,Power Bank,Electronics,Lakme,1563,2748,56,4.6
+637,51,Lipstick,Beauty,Milton,964,1497,298,4.6
+638,3,Bedsheet,Home & Kitchen,Nike,986,1521,379,4.3
+639,209,Face Wash,Beauty,Prestige,1132,1541,361,4.1
+640,255,Dry Fruits,Grocery,Generic,953,1569,335,4.1
+641,88,Smart Watch,Electronics,Nike,2181,3359,296,3.8
+642,230,Shampoo,Beauty,Generic,1522,2013,328,3.6
+643,69,Lipstick,Beauty,Boat,666,1113,26,4.9
+644,192,Spices,Grocery,Puma,1506,2039,67,4.1
+645,75,Storage Box,Home & Kitchen,Generic,732,1043,94,3.8
+646,2,Smart Watch,Electronics,Lakme,1884,3385,237,4.6
+647,32,Smart Watch,Electronics,Puma,1088,1682,172,4.3
+648,7,Bedsheet,Home & Kitchen,Nike,235,328,224,3.5
+649,222,Jeans,Fashion,Milton,1833,2492,59,4.7
+650,162,Mixer,Home & Kitchen,Puma,1249,2107,111,3.5
+651,216,Women's Kurti,Fashion,Nike,557,912,104,4.6
+652,35,Storage Box,Home & Kitchen,Mamaearth,1186,1934,382,4.7
+653,17,Face Wash,Beauty,Milton,1869,2284,54,4.5
+654,289,Smart Watch,Electronics,Prestige,1366,1994,103,3.5
+655,248,Face Wash,Beauty,Prestige,1826,2376,82,3.8
+656,193,Face Wash,Beauty,Milton,1791,2403,291,4.6
+657,154,Storage Box,Home & Kitchen,Puma,1095,1677,384,4.2
+658,112,Mixer,Home & Kitchen,Nike,1466,1909,342,4.0
+659,224,Saree,Fashion,Puma,104,140,233,4.7
+660,282,Mixer,Home & Kitchen,Mamaearth,536,902,42,4.7
+661,246,Saree,Fashion,Puma,329,497,38,4.4
+662,11,Saree,Fashion,Mamaearth,448,730,214,3.6
+663,174,Mixer,Home & Kitchen,Puma,1135,1560,255,4.4
+664,145,Tea,Grocery,Milton,80,120,284,4.3
+665,153,Power Bank,Electronics,Boat,1163,1960,310,4.7
+666,228,Storage Box,Home & Kitchen,Milton,1926,2894,396,3.9
+667,63,Face Wash,Beauty,Boat,2373,3427,318,3.7
+668,251,Smart Watch,Electronics,Lakme,2300,3014,102,4.5
+669,39,Tea,Grocery,Nike,989,1598,47,3.6
+670,259,Dry Fruits,Grocery,Boat,1833,2597,298,3.7
+671,91,Face Wash,Beauty,Mamaearth,1850,2869,275,3.6
+672,21,Saree,Fashion,Puma,1051,1325,296,5.0
+673,252,Tea,Grocery,Lakme,1748,2633,66,4.9
+674,181,Tea,Grocery,Mamaearth,1445,2105,120,4.9
+675,298,Mixer,Home & Kitchen,Boat,2493,3341,118,4.0
+676,81,Saree,Fashion,Boat,2093,3293,80,4.7
+677,106,Bedsheet,Home & Kitchen,Prestige,803,1301,107,3.8
+678,97,Smart Watch,Electronics,Prestige,1359,1624,149,3.8
+679,135,Storage Box,Home & Kitchen,Milton,1389,2023,288,3.8
+680,98,Mixer,Home & Kitchen,Boat,1221,1909,267,4.0
+681,20,Dry Fruits,Grocery,Generic,227,335,344,4.7
+682,82,Bluetooth Earbuds,Electronics,Milton,2477,4105,223,3.8
+683,149,Saree,Fashion,Prestige,2045,2829,377,3.9
+684,102,Power Bank,Electronics,Lakme,1945,2307,50,4.3
+685,217,Storage Box,Home & Kitchen,Boat,1641,2429,353,4.7
+686,11,Face Wash,Beauty,Boat,688,975,78,3.7
+687,242,Bluetooth Earbuds,Electronics,Mamaearth,1182,1600,256,5.0
+688,72,Smart Watch,Electronics,Puma,1226,1601,121,3.8
+689,160,Jeans,Fashion,Lakme,1455,2183,202,4.3
+690,69,Smart Watch,Electronics,Generic,2291,3767,267,3.9
+691,67,Lipstick,Beauty,Generic,1333,1642,295,4.9
+692,171,Dry Fruits,Grocery,Generic,854,1417,242,3.9
+693,69,Power Bank,Electronics,Lakme,1965,3179,37,4.3
+694,217,Face Wash,Beauty,Puma,1824,2821,355,4.7
+695,186,Power Bank,Electronics,Nike,2372,2961,219,4.7
+696,10,Mixer,Home & Kitchen,Lakme,1889,2595,143,4.1
+697,35,Tea,Grocery,Generic,850,1318,368,3.9
+698,296,Power Bank,Electronics,Boat,636,1012,356,4.1
+699,124,Face Wash,Beauty,Boat,1720,2414,390,3.6
+700,185,Jeans,Fashion,Generic,709,911,89,3.8
+701,126,Mixer,Home & Kitchen,Boat,727,1229,271,4.2
+702,293,Women's Kurti,Fashion,Nike,1229,1598,146,3.7
+703,181,Power Bank,Electronics,Generic,2146,2920,360,3.9
+704,290,Women's Kurti,Fashion,Mamaearth,448,692,100,4.6
+705,122,Bluetooth Earbuds,Electronics,Generic,1459,2614,396,4.5
+706,29,Bedsheet,Home & Kitchen,Milton,222,355,42,3.8
+707,224,Women's Kurti,Fashion,Boat,2147,2818,266,4.2
+708,94,Bluetooth Earbuds,Electronics,Lakme,1455,2498,364,3.5
+709,110,Saree,Fashion,Nike,159,280,164,4.6
+710,287,Saree,Fashion,Lakme,2434,3830,87,4.3
+711,270,Lipstick,Beauty,Milton,1934,2799,75,4.3
+712,25,Smart Watch,Electronics,Milton,1403,2098,233,4.1
+713,206,Lipstick,Beauty,Prestige,445,515,223,4.6
+714,241,Tea,Grocery,Mamaearth,1340,2282,334,4.3
+715,64,Women's Kurti,Fashion,Prestige,643,817,71,4.3
+716,119,Smart Watch,Electronics,Boat,2284,3625,77,4.2
+717,187,Saree,Fashion,Milton,1143,1936,400,4.4
+718,295,Jeans,Fashion,Generic,2423,4248,306,3.8
+719,11,Storage Box,Home & Kitchen,Generic,430,770,41,4.4
+720,252,Power Bank,Electronics,Generic,2000,2985,348,4.7
+721,200,Shampoo,Beauty,Prestige,2466,4202,180,3.6
+722,21,Mixer,Home & Kitchen,Puma,1712,2163,40,4.9
+723,222,Shampoo,Beauty,Nike,958,1707,138,4.0
+724,113,Spices,Grocery,Prestige,1703,2764,251,3.8
+725,154,Smart Watch,Electronics,Boat,1490,2164,176,4.4
+726,196,Shampoo,Beauty,Boat,704,952,43,5.0
+727,281,Tea,Grocery,Prestige,1933,2397,76,3.7
+728,117,Storage Box,Home & Kitchen,Generic,268,436,174,4.9
+729,140,Smart Watch,Electronics,Generic,715,894,23,4.8
+730,292,Face Wash,Beauty,Milton,611,761,81,4.0
+731,146,Bedsheet,Home & Kitchen,Mamaearth,1240,2120,72,3.9
+732,81,Bedsheet,Home & Kitchen,Prestige,1840,2231,148,4.0
+733,91,Tea,Grocery,Generic,1898,2757,287,4.6
+734,251,Storage Box,Home & Kitchen,Milton,1326,2192,148,3.5
+735,2,Saree,Fashion,Milton,821,1465,349,4.7
+736,279,Jeans,Fashion,Generic,1898,2453,278,3.8
+737,285,Bedsheet,Home & Kitchen,Nike,1824,2327,343,3.6
+738,237,Men T-Shirt,Fashion,Prestige,1866,2160,40,4.4
+739,147,Tea,Grocery,Puma,1023,1564,124,4.9
+740,291,Women's Kurti,Fashion,Mamaearth,2392,3663,186,4.6
+741,53,Face Wash,Beauty,Nike,668,897,355,4.6
+742,221,Lipstick,Beauty,Prestige,1915,3006,208,3.6
+743,170,Storage Box,Home & Kitchen,Boat,427,507,322,4.8
+744,131,Power Bank,Electronics,Boat,1157,1487,161,3.8
+745,130,Bluetooth Earbuds,Electronics,Puma,2247,3164,339,3.7
+746,54,Men T-Shirt,Fashion,Generic,2163,3399,314,4.8
+747,152,Saree,Fashion,Boat,418,688,211,4.3
+748,177,Dry Fruits,Grocery,Mamaearth,842,1486,108,4.0
+749,50,Smart Watch,Electronics,Boat,2308,2959,196,3.6
+750,213,Tea,Grocery,Prestige,1167,1861,349,4.5
+751,188,Men T-Shirt,Fashion,Puma,143,200,202,4.3
+752,204,Saree,Fashion,Nike,2432,3463,20,4.8
+753,276,Saree,Fashion,Puma,1358,1783,63,3.8
+754,119,Dry Fruits,Grocery,Prestige,885,1589,347,4.8
+755,206,Smart Watch,Electronics,Milton,1989,3185,157,4.7
+756,129,Men T-Shirt,Fashion,Mamaearth,1549,2179,114,4.0
+757,248,Tea,Grocery,Mamaearth,1222,1969,318,3.9
+758,229,Storage Box,Home & Kitchen,Mamaearth,1228,1669,108,4.7
+759,299,Lipstick,Beauty,Prestige,467,684,340,3.6
+760,72,Spices,Grocery,Generic,1084,1369,240,4.3
+761,129,Mixer,Home & Kitchen,Prestige,1223,1945,368,4.9
+762,224,Bluetooth Earbuds,Electronics,Nike,414,685,200,3.9
+763,12,Smart Watch,Electronics,Boat,1429,1929,115,3.7
+764,222,Spices,Grocery,Puma,2067,2642,222,4.1
+765,163,Mixer,Home & Kitchen,Lakme,441,646,110,4.9
+766,184,Spices,Grocery,Prestige,165,295,200,3.8
+767,280,Men T-Shirt,Fashion,Generic,2408,3177,395,4.8
+768,156,Power Bank,Electronics,Puma,2195,2979,375,5.0
+769,149,Storage Box,Home & Kitchen,Milton,131,229,47,3.5
+770,249,Tea,Grocery,Prestige,2297,3142,342,5.0
+771,235,Bluetooth Earbuds,Electronics,Mamaearth,1960,2755,261,4.9
+772,176,Bluetooth Earbuds,Electronics,Lakme,1274,2063,275,4.6
+773,91,Spices,Grocery,Boat,1015,1753,384,5.0
+774,154,Smart Watch,Electronics,Lakme,512,753,152,4.4
+775,81,Mixer,Home & Kitchen,Puma,944,1282,134,4.9
+776,144,Mixer,Home & Kitchen,Nike,198,288,318,4.6
+777,119,Women's Kurti,Fashion,Prestige,1866,2216,296,4.4
+778,260,Smart Watch,Electronics,Prestige,306,388,64,4.1
+779,235,Bedsheet,Home & Kitchen,Puma,2404,3748,341,4.3
+780,174,Jeans,Fashion,Milton,1650,2404,54,3.7
+781,275,Spices,Grocery,Boat,2136,3439,110,3.7
+782,192,Shampoo,Beauty,Lakme,748,1238,68,3.8
+783,58,Mixer,Home & Kitchen,Puma,1997,3269,207,4.5
+784,144,Bluetooth Earbuds,Electronics,Generic,2472,4112,326,4.3
+785,176,Lipstick,Beauty,Boat,1874,2166,224,3.5
+786,268,Men T-Shirt,Fashion,Boat,1837,2200,205,4.4
+787,184,Lipstick,Beauty,Lakme,564,857,129,4.8
+788,139,Jeans,Fashion,Mamaearth,1090,1662,104,3.9
+789,147,Power Bank,Electronics,Mamaearth,118,139,394,3.7
+790,109,Bedsheet,Home & Kitchen,Boat,1507,1912,149,4.4
+791,16,Storage Box,Home & Kitchen,Nike,1073,1592,127,4.6
+792,20,Jeans,Fashion,Boat,2370,3748,23,5.0
+793,290,Smart Watch,Electronics,Lakme,1693,3039,311,4.5
+794,147,Mixer,Home & Kitchen,Milton,439,745,190,4.5
+795,238,Spices,Grocery,Puma,114,133,206,4.5
+796,207,Mixer,Home & Kitchen,Milton,520,887,108,4.6
+797,179,Storage Box,Home & Kitchen,Mamaearth,1711,2800,106,3.8
+798,182,Shampoo,Beauty,Generic,1669,2060,20,5.0
+799,254,Bedsheet,Home & Kitchen,Generic,301,456,164,4.9
+800,217,Shampoo,Beauty,Boat,2111,3138,228,4.4
+801,189,Spices,Grocery,Prestige,1526,2726,172,4.0
+802,270,Smart Watch,Electronics,Nike,1774,2651,174,4.4
+803,290,Saree,Fashion,Lakme,287,398,57,4.7
+804,15,Smart Watch,Electronics,Prestige,1708,2385,80,4.4
+805,137,Saree,Fashion,Generic,1702,2824,226,4.2
+806,152,Mixer,Home & Kitchen,Lakme,1154,1540,94,4.8
+807,204,Mixer,Home & Kitchen,Puma,1754,2942,290,4.9
+808,150,Shampoo,Beauty,Milton,1801,2351,143,3.7
+809,18,Women's Kurti,Fashion,Puma,2176,2523,55,4.8
+810,119,Spices,Grocery,Nike,1423,2130,117,4.3
+811,26,Lipstick,Beauty,Prestige,622,924,254,3.9
+812,49,Lipstick,Beauty,Milton,2138,3398,385,4.9
+813,185,Bedsheet,Home & Kitchen,Boat,2302,2737,243,4.8
+814,208,Saree,Fashion,Puma,1197,1785,378,4.6
+815,264,Dry Fruits,Grocery,Mamaearth,1259,2124,205,3.7
+816,83,Bedsheet,Home & Kitchen,Generic,151,229,99,3.6
+817,63,Tea,Grocery,Boat,310,443,323,3.6
+818,286,Bluetooth Earbuds,Electronics,Mamaearth,1810,2505,332,4.6
+819,178,Shampoo,Beauty,Generic,282,431,288,4.4
+820,282,Bluetooth Earbuds,Electronics,Prestige,1564,2261,293,5.0
+821,44,Shampoo,Beauty,Prestige,185,233,288,3.6
+822,123,Power Bank,Electronics,Nike,1070,1560,148,4.7
+823,225,Face Wash,Beauty,Generic,2147,2697,238,4.9
+824,80,Power Bank,Electronics,Lakme,2491,3920,216,4.4
+825,292,Women's Kurti,Fashion,Puma,879,1479,160,4.0
+826,182,Smart Watch,Electronics,Milton,2140,2653,258,4.3
+827,135,Jeans,Fashion,Mamaearth,1564,2066,195,3.9
+828,88,Bedsheet,Home & Kitchen,Prestige,2117,3678,222,3.5
+829,293,Face Wash,Beauty,Puma,2439,3764,160,3.6
+830,82,Saree,Fashion,Nike,2099,3449,241,3.8
+831,275,Saree,Fashion,Prestige,1924,2741,223,4.1
+832,100,Mixer,Home & Kitchen,Nike,345,454,357,4.4
+833,164,Tea,Grocery,Mamaearth,832,1312,116,3.6
+834,289,Bluetooth Earbuds,Electronics,Prestige,2268,2698,368,4.1
+835,218,Face Wash,Beauty,Milton,2241,2865,210,3.8
+836,237,Storage Box,Home & Kitchen,Generic,580,1010,45,4.0
+837,169,Dry Fruits,Grocery,Milton,2377,4062,257,4.7
+838,118,Smart Watch,Electronics,Generic,221,386,92,4.4
+839,249,Mixer,Home & Kitchen,Milton,132,188,241,3.8
+840,148,Women's Kurti,Fashion,Generic,1673,2460,169,4.0
+841,13,Jeans,Fashion,Generic,214,321,352,4.2
+842,105,Shampoo,Beauty,Boat,514,878,364,3.7
+843,167,Storage Box,Home & Kitchen,Lakme,2406,3040,211,3.7
+844,232,Saree,Fashion,Lakme,2218,3275,33,3.5
+845,137,Women's Kurti,Fashion,Milton,520,846,292,4.1
+846,260,Dry Fruits,Grocery,Mamaearth,791,972,238,3.8
+847,232,Dry Fruits,Grocery,Prestige,836,1421,103,3.8
+848,263,Smart Watch,Electronics,Mamaearth,1305,2292,134,4.4
+849,168,Shampoo,Beauty,Mamaearth,549,940,50,3.9
+850,270,Power Bank,Electronics,Mamaearth,1387,2465,209,4.6
+851,205,Saree,Fashion,Prestige,1072,1639,212,3.9
+852,95,Men T-Shirt,Fashion,Nike,1493,1748,252,4.9
+853,51,Shampoo,Beauty,Boat,1285,1858,327,3.8
+854,214,Men T-Shirt,Fashion,Milton,1035,1837,61,4.1
+855,51,Bedsheet,Home & Kitchen,Prestige,1956,2972,244,4.0
+856,288,Lipstick,Beauty,Milton,83,134,303,4.8
+857,201,Women's Kurti,Fashion,Generic,1421,1837,107,4.0
+858,102,Shampoo,Beauty,Prestige,1083,1500,253,3.5
+859,168,Power Bank,Electronics,Lakme,1709,2033,352,3.6
+860,98,Shampoo,Beauty,Prestige,1276,2044,310,4.1
+861,198,Storage Box,Home & Kitchen,Prestige,230,267,300,4.2
+862,32,Lipstick,Beauty,Nike,990,1151,271,4.4
+863,217,Saree,Fashion,Lakme,1879,2997,200,3.9
+864,174,Bluetooth Earbuds,Electronics,Milton,1714,3040,329,4.1
+865,261,Tea,Grocery,Prestige,396,607,62,3.8
+866,50,Face Wash,Beauty,Lakme,873,1226,108,5.0
+867,107,Spices,Grocery,Prestige,1293,1845,337,3.8
+868,281,Storage Box,Home & Kitchen,Prestige,1471,1987,219,4.2
+869,18,Smart Watch,Electronics,Nike,1763,2077,217,3.5
+870,190,Bluetooth Earbuds,Electronics,Nike,584,932,212,4.6
+871,53,Bedsheet,Home & Kitchen,Nike,587,927,105,4.8
+872,66,Saree,Fashion,Nike,2234,2751,376,4.3
+873,196,Smart Watch,Electronics,Nike,1990,3552,241,4.6
+874,89,Storage Box,Home & Kitchen,Generic,984,1450,267,3.6
+875,248,Power Bank,Electronics,Nike,1694,2018,380,4.1
+876,210,Men T-Shirt,Fashion,Generic,84,142,121,4.8
+877,236,Spices,Grocery,Generic,1211,1702,171,4.7
+878,282,Storage Box,Home & Kitchen,Lakme,1536,1810,42,4.3
+879,45,Spices,Grocery,Prestige,791,1152,21,3.8
+880,183,Face Wash,Beauty,Milton,1826,3203,104,4.2
+881,220,Smart Watch,Electronics,Nike,1815,3056,152,3.7
+882,14,Women's Kurti,Fashion,Nike,578,1009,113,3.6
+883,88,Tea,Grocery,Nike,2209,3002,144,4.9
+884,168,Tea,Grocery,Generic,350,440,174,3.8
+885,177,Bedsheet,Home & Kitchen,Generic,350,625,231,3.6
+886,141,Tea,Grocery,Boat,1830,2785,395,4.3
+887,295,Shampoo,Beauty,Lakme,1512,2515,384,3.5
+888,22,Bedsheet,Home & Kitchen,Boat,1465,2447,95,4.2
+889,251,Shampoo,Beauty,Mamaearth,1834,2472,111,5.0
+890,130,Power Bank,Electronics,Generic,1066,1412,95,4.6
+891,34,Women's Kurti,Fashion,Milton,344,411,50,4.3
+892,225,Smart Watch,Electronics,Generic,2100,3210,392,4.1
+893,242,Men T-Shirt,Fashion,Boat,2075,3398,194,3.8
+894,57,Power Bank,Electronics,Nike,1825,2367,40,4.0
+895,276,Lipstick,Beauty,Lakme,330,442,160,5.0
+896,126,Saree,Fashion,Mamaearth,309,550,73,4.6
+897,56,Face Wash,Beauty,Lakme,1280,1730,280,4.4
+898,209,Men T-Shirt,Fashion,Mamaearth,1262,1850,292,4.2
+899,67,Tea,Grocery,Boat,1439,2332,330,4.0
+900,112,Women's Kurti,Fashion,Generic,1686,2396,236,4.7
+901,256,Spices,Grocery,Generic,492,760,193,5.0
+902,7,Face Wash,Beauty,Puma,1719,2819,113,5.0
+903,245,Women's Kurti,Fashion,Prestige,1492,2002,193,4.7
+904,262,Face Wash,Beauty,Boat,1584,2162,312,4.7
+905,73,Saree,Fashion,Mamaearth,1481,1917,301,3.5
+906,13,Bedsheet,Home & Kitchen,Boat,407,729,187,4.2
+907,184,Tea,Grocery,Prestige,1850,3073,159,4.5
+908,112,Mixer,Home & Kitchen,Milton,1750,2176,295,4.1
+909,134,Dry Fruits,Grocery,Generic,86,121,237,5.0
+910,173,Women's Kurti,Fashion,Lakme,200,294,72,3.6
+911,182,Power Bank,Electronics,Milton,127,163,325,4.4
+912,39,Jeans,Fashion,Milton,1949,2837,384,5.0
+913,169,Bedsheet,Home & Kitchen,Milton,937,1514,309,4.6
+914,290,Power Bank,Electronics,Milton,1165,1905,80,3.8
+915,253,Face Wash,Beauty,Milton,85,114,187,4.7
+916,256,Power Bank,Electronics,Lakme,318,424,347,4.7
+917,101,Spices,Grocery,Milton,1103,1919,116,3.7
+918,159,Bedsheet,Home & Kitchen,Lakme,2404,2993,322,4.9
+919,116,Men T-Shirt,Fashion,Lakme,1605,2720,308,4.4
+920,136,Saree,Fashion,Mamaearth,2035,3633,342,3.5
+921,79,Bedsheet,Home & Kitchen,Lakme,1137,1712,274,4.0
+922,127,Men T-Shirt,Fashion,Generic,334,583,395,4.4
+923,14,Jeans,Fashion,Generic,2330,2830,203,4.6
+924,40,Mixer,Home & Kitchen,Boat,2061,3396,161,4.5
+925,63,Women's Kurti,Fashion,Generic,748,978,185,4.9
+926,78,Bedsheet,Home & Kitchen,Nike,522,799,23,4.2
+927,185,Bedsheet,Home & Kitchen,Boat,1995,3237,130,4.0
+928,147,Storage Box,Home & Kitchen,Puma,2057,3552,233,4.5
+929,161,Lipstick,Beauty,Lakme,2395,4057,344,4.1
+930,293,Tea,Grocery,Boat,226,350,102,3.6
+931,195,Shampoo,Beauty,Milton,1220,2147,245,4.5
+932,36,Bedsheet,Home & Kitchen,Lakme,108,184,20,3.7
+933,288,Jeans,Fashion,Mamaearth,1995,2387,116,5.0
+934,50,Men T-Shirt,Fashion,Mamaearth,1596,2556,268,4.4
+935,214,Bedsheet,Home & Kitchen,Lakme,470,647,74,4.6
+936,189,Jeans,Fashion,Puma,1618,2583,273,4.2
+937,94,Bluetooth Earbuds,Electronics,Milton,544,820,397,3.6
+938,284,Mixer,Home & Kitchen,Prestige,473,630,90,3.6
+939,103,Storage Box,Home & Kitchen,Lakme,675,830,132,4.8
+940,166,Bedsheet,Home & Kitchen,Milton,244,353,352,4.5
+941,265,Shampoo,Beauty,Generic,819,1225,79,4.9
+942,183,Power Bank,Electronics,Mamaearth,2136,2684,210,4.3
+943,160,Power Bank,Electronics,Generic,1346,1849,213,4.1
+944,71,Power Bank,Electronics,Nike,613,883,239,4.8
+945,221,Face Wash,Beauty,Prestige,884,1339,385,3.9
+946,152,Tea,Grocery,Boat,1222,1687,230,4.3
+947,101,Mixer,Home & Kitchen,Puma,1621,2813,73,5.0
+948,155,Dry Fruits,Grocery,Prestige,2342,2962,146,3.6
+949,117,Spices,Grocery,Boat,2465,2965,333,4.9
+950,235,Shampoo,Beauty,Mamaearth,828,1009,211,3.8
+951,280,Spices,Grocery,Prestige,1346,1568,179,4.2
+952,197,Dry Fruits,Grocery,Nike,702,891,347,4.4
+953,17,Storage Box,Home & Kitchen,Milton,1357,2345,89,3.7
+954,213,Face Wash,Beauty,Lakme,1576,2283,77,4.7
+955,21,Bluetooth Earbuds,Electronics,Boat,1324,2332,58,4.1
+956,174,Spices,Grocery,Milton,1204,1814,102,3.9
+957,164,Men T-Shirt,Fashion,Boat,1049,1827,148,3.8
+958,34,Dry Fruits,Grocery,Lakme,2464,2979,242,3.8
+959,167,Saree,Fashion,Generic,137,187,221,4.8
+960,52,Power Bank,Electronics,Boat,1637,2248,112,4.7
+961,229,Shampoo,Beauty,Mamaearth,629,938,362,3.7
+962,92,Storage Box,Home & Kitchen,Milton,910,1229,317,4.2
+963,134,Women's Kurti,Fashion,Puma,990,1557,127,3.6
+964,140,Jeans,Fashion,Boat,1129,1465,164,3.8
+965,48,Face Wash,Beauty,Puma,271,452,90,4.1
+966,249,Storage Box,Home & Kitchen,Generic,2353,3227,394,3.5
+967,145,Jeans,Fashion,Generic,462,682,110,3.6
+968,247,Shampoo,Beauty,Prestige,1546,2639,337,3.9
+969,42,Tea,Grocery,Prestige,601,1004,218,4.3
+970,175,Power Bank,Electronics,Boat,804,1081,360,4.6
+971,300,Shampoo,Beauty,Milton,2284,3791,284,3.6
+972,30,Storage Box,Home & Kitchen,Puma,1534,2570,345,3.8
+973,120,Spices,Grocery,Prestige,1443,2571,175,4.7
+974,270,Dry Fruits,Grocery,Mamaearth,523,778,203,4.3
+975,200,Shampoo,Beauty,Prestige,962,1180,364,4.3
+976,76,Mixer,Home & Kitchen,Prestige,1731,2758,238,4.3
+977,20,Face Wash,Beauty,Nike,1718,2930,359,4.7
+978,219,Spices,Grocery,Mamaearth,1334,2112,334,4.6
+979,60,Smart Watch,Electronics,Mamaearth,778,1318,131,5.0
+980,261,Bedsheet,Home & Kitchen,Boat,2450,2912,31,3.9
+981,36,Shampoo,Beauty,Mamaearth,345,416,300,4.8
+982,127,Men T-Shirt,Fashion,Boat,576,909,195,4.9
+983,192,Tea,Grocery,Nike,1270,2277,384,4.9
+984,103,Storage Box,Home & Kitchen,Mamaearth,1918,2877,63,5.0
+985,14,Spices,Grocery,Boat,785,1211,44,4.2
+986,256,Jeans,Fashion,Generic,2186,2858,340,4.3
+987,194,Women's Kurti,Fashion,Lakme,627,956,82,4.8
+988,72,Spices,Grocery,Prestige,260,357,341,3.6
+989,117,Mixer,Home & Kitchen,Boat,1282,1538,289,4.7
+990,108,Women's Kurti,Fashion,Lakme,1981,3070,126,4.8
+991,94,Shampoo,Beauty,Milton,858,1489,21,4.5
+992,158,Storage Box,Home & Kitchen,Milton,2349,2786,227,4.4
+993,89,Dry Fruits,Grocery,Prestige,1128,1474,284,4.1
+994,9,Dry Fruits,Grocery,Mamaearth,2398,3993,221,3.7
+995,177,Tea,Grocery,Prestige,163,252,120,4.6
+996,222,Face Wash,Beauty,Puma,1920,2675,249,4.8
+997,29,Lipstick,Beauty,Generic,1847,3079,156,3.8
+998,238,Shampoo,Beauty,Puma,2283,3765,222,4.6
+999,131,Bluetooth Earbuds,Electronics,Puma,1724,2612,349,3.7
+1000,251,Spices,Grocery,Nike,929,1338,174,4.6
+1001,127,Smart Watch,Electronics,Milton,2105,3730,60,4.0
+1002,83,Bedsheet,Home & Kitchen,Mamaearth,1190,1417,334,4.9
+1003,121,Spices,Grocery,Milton,2073,3307,318,4.0
+1004,249,Bedsheet,Home & Kitchen,Generic,1361,1725,63,4.1
+1005,94,Smart Watch,Electronics,Milton,2451,3352,257,4.9
+1006,49,Bluetooth Earbuds,Electronics,Nike,925,1542,36,4.7
+1007,148,Jeans,Fashion,Generic,529,687,168,4.6
+1008,136,Bluetooth Earbuds,Electronics,Nike,1573,2321,140,4.5
+1009,22,Smart Watch,Electronics,Puma,908,1324,375,3.7
+1010,124,Power Bank,Electronics,Milton,565,724,165,4.7
+1011,133,Face Wash,Beauty,Puma,2186,3092,384,4.9
+1012,294,Face Wash,Beauty,Generic,1798,2953,392,3.9
+1013,190,Shampoo,Beauty,Nike,894,1377,22,3.5
+1014,138,Storage Box,Home & Kitchen,Boat,2114,3529,358,4.4
+1015,43,Storage Box,Home & Kitchen,Nike,1716,2704,232,4.3
+1016,249,Women's Kurti,Fashion,Mamaearth,472,618,28,4.3
+1017,245,Men T-Shirt,Fashion,Lakme,1266,1851,96,4.5
+1018,6,Women's Kurti,Fashion,Nike,1322,1744,256,4.0
+1019,193,Face Wash,Beauty,Nike,2382,3668,131,5.0
+1020,33,Tea,Grocery,Boat,1847,3311,367,5.0
+1021,236,Dry Fruits,Grocery,Milton,1131,1668,53,3.7
+1022,216,Power Bank,Electronics,Prestige,106,128,386,4.3
+1023,270,Dry Fruits,Grocery,Prestige,2067,3504,315,4.6
+1024,266,Saree,Fashion,Lakme,250,295,40,4.6
+1025,234,Shampoo,Beauty,Milton,2070,2439,316,3.7
+1026,236,Mixer,Home & Kitchen,Milton,643,1074,396,4.6
+1027,236,Mixer,Home & Kitchen,Puma,1656,2876,28,3.7
+1028,121,Spices,Grocery,Generic,2276,3182,278,4.9
+1029,222,Face Wash,Beauty,Boat,1707,1989,274,4.3
+1030,286,Tea,Grocery,Prestige,527,781,286,4.7
+1031,179,Dry Fruits,Grocery,Milton,1631,2903,210,4.5
+1032,233,Shampoo,Beauty,Prestige,1797,2472,32,4.2
+1033,237,Face Wash,Beauty,Milton,1906,2605,372,3.9
+1034,182,Bedsheet,Home & Kitchen,Lakme,2263,3344,318,4.3
+1035,29,Smart Watch,Electronics,Prestige,2426,3749,155,4.4
+1036,188,Dry Fruits,Grocery,Puma,739,1057,223,4.8
+1037,67,Storage Box,Home & Kitchen,Boat,2388,3036,110,3.9
+1038,97,Dry Fruits,Grocery,Lakme,1398,2345,388,4.8
+1039,172,Bluetooth Earbuds,Electronics,Prestige,215,284,109,4.1
+1040,120,Bluetooth Earbuds,Electronics,Mamaearth,1346,2418,161,3.9
+1041,226,Bluetooth Earbuds,Electronics,Mamaearth,1931,2822,39,4.2
+1042,133,Jeans,Fashion,Mamaearth,2248,3824,94,3.8
+1043,44,Men T-Shirt,Fashion,Boat,1167,2089,81,5.0
+1044,238,Bedsheet,Home & Kitchen,Milton,2223,3743,218,4.0
+1045,192,Spices,Grocery,Prestige,1366,1786,120,4.5
+1046,58,Face Wash,Beauty,Generic,1721,2581,373,4.1
+1047,269,Women's Kurti,Fashion,Mamaearth,1936,3070,343,4.0
+1048,298,Shampoo,Beauty,Milton,123,189,172,3.8
+1049,242,Lipstick,Beauty,Nike,1018,1355,181,4.8
+1050,77,Mixer,Home & Kitchen,Mamaearth,2356,4161,194,3.5
+1051,293,Bedsheet,Home & Kitchen,Generic,1475,1727,126,4.8
+1052,21,Face Wash,Beauty,Nike,833,1054,251,4.8
+1053,142,Spices,Grocery,Boat,2075,3419,83,4.2
+1054,90,Tea,Grocery,Nike,2211,2575,279,4.6
+1055,66,Saree,Fashion,Nike,482,657,360,3.6
+1056,100,Bedsheet,Home & Kitchen,Nike,1329,1702,194,5.0
+1057,270,Women's Kurti,Fashion,Lakme,1441,1803,82,3.8
+1058,150,Dry Fruits,Grocery,Generic,136,205,230,4.1
+1059,242,Lipstick,Beauty,Milton,819,956,88,3.7
+1060,268,Face Wash,Beauty,Puma,162,236,191,4.2
+1061,97,Smart Watch,Electronics,Lakme,2020,3379,335,4.8
+1062,67,Storage Box,Home & Kitchen,Milton,912,1170,199,3.8
+1063,234,Bedsheet,Home & Kitchen,Puma,2226,3754,208,3.9
+1064,20,Mixer,Home & Kitchen,Mamaearth,1389,1791,374,5.0
+1065,219,Jeans,Fashion,Prestige,1957,2637,378,4.2
+1066,286,Lipstick,Beauty,Lakme,843,1451,359,3.8
+1067,275,Shampoo,Beauty,Mamaearth,1759,2084,122,3.7
+1068,115,Face Wash,Beauty,Milton,1191,1380,189,4.4
+1069,226,Dry Fruits,Grocery,Generic,904,1411,130,4.7
+1070,63,Men T-Shirt,Fashion,Milton,1306,2161,346,3.7
+1071,157,Spices,Grocery,Puma,1824,2989,390,4.8
+1072,218,Shampoo,Beauty,Mamaearth,574,675,250,4.5
+1073,270,Tea,Grocery,Lakme,902,1141,131,3.6
+1074,135,Women's Kurti,Fashion,Mamaearth,789,1011,262,3.7
+1075,23,Power Bank,Electronics,Boat,1536,2433,353,4.2
+1076,66,Shampoo,Beauty,Lakme,507,733,159,4.0
+1077,296,Spices,Grocery,Puma,1070,1759,299,4.8
+1078,43,Men T-Shirt,Fashion,Mamaearth,1364,1834,253,3.9
+1079,275,Power Bank,Electronics,Boat,1279,2016,169,4.0
+1080,114,Men T-Shirt,Fashion,Lakme,1686,2786,204,4.3
+1081,115,Men T-Shirt,Fashion,Milton,1713,2250,39,5.0
+1082,73,Face Wash,Beauty,Puma,750,1157,56,4.9
+1083,36,Shampoo,Beauty,Lakme,1583,2185,266,4.3
+1084,297,Storage Box,Home & Kitchen,Puma,2181,3216,48,4.4
+1085,181,Men T-Shirt,Fashion,Lakme,1133,1740,132,3.6
+1086,53,Bluetooth Earbuds,Electronics,Mamaearth,1670,2412,129,3.9
+1087,56,Mixer,Home & Kitchen,Lakme,1201,1958,225,4.4
+1088,99,Face Wash,Beauty,Boat,2222,3338,335,4.5
+1089,146,Mixer,Home & Kitchen,Lakme,297,496,196,3.8
+1090,157,Jeans,Fashion,Boat,1750,2846,147,4.0
+1091,210,Saree,Fashion,Puma,2489,4009,276,4.7
+1092,34,Tea,Grocery,Nike,381,641,24,4.3
+1093,115,Jeans,Fashion,Nike,1606,2865,236,3.6
+1094,82,Smart Watch,Electronics,Boat,1835,2325,110,4.2
+1095,246,Shampoo,Beauty,Milton,1143,1938,333,4.9
+1096,68,Shampoo,Beauty,Prestige,495,759,246,3.9
+1097,189,Women's Kurti,Fashion,Nike,144,245,139,3.5
+1098,72,Saree,Fashion,Milton,587,726,206,3.9
+1099,103,Smart Watch,Electronics,Mamaearth,1799,2170,375,3.9
+1100,101,Women's Kurti,Fashion,Boat,2485,3996,315,4.2
+1101,29,Shampoo,Beauty,Milton,2285,3503,384,3.8
+1102,72,Mixer,Home & Kitchen,Boat,1211,1806,34,3.7
+1103,229,Saree,Fashion,Nike,1322,1997,154,4.5
+1104,29,Mixer,Home & Kitchen,Lakme,2111,3697,52,4.0
+1105,27,Bedsheet,Home & Kitchen,Lakme,1028,1553,67,4.7
+1106,170,Jeans,Fashion,Mamaearth,1604,2750,339,4.3
+1107,176,Bedsheet,Home & Kitchen,Generic,2069,3325,292,3.7
+1108,112,Tea,Grocery,Mamaearth,1009,1791,285,3.6
+1109,247,Women's Kurti,Fashion,Puma,697,1174,390,3.7
+1110,277,Spices,Grocery,Lakme,2012,2427,90,4.0
+1111,238,Tea,Grocery,Milton,331,465,193,4.5
+1112,32,Mixer,Home & Kitchen,Mamaearth,1011,1200,348,4.9
+1113,24,Men T-Shirt,Fashion,Lakme,812,1332,124,4.7
+1114,4,Storage Box,Home & Kitchen,Nike,1739,2443,21,3.9
+1115,177,Mixer,Home & Kitchen,Boat,512,692,233,4.0
+1116,43,Men T-Shirt,Fashion,Prestige,2363,3381,339,4.9
+1117,69,Bluetooth Earbuds,Electronics,Milton,1812,2826,24,4.1
+1118,124,Bluetooth Earbuds,Electronics,Prestige,504,604,101,4.1
+1119,290,Shampoo,Beauty,Mamaearth,470,815,106,4.3
+1120,105,Men T-Shirt,Fashion,Generic,794,1051,384,4.9
+1121,104,Power Bank,Electronics,Lakme,2084,3241,64,4.9
+1122,246,Men T-Shirt,Fashion,Puma,460,760,51,4.6
+1123,119,Spices,Grocery,Generic,2059,3373,108,4.8
+1124,280,Shampoo,Beauty,Nike,1661,2403,350,4.3
+1125,257,Shampoo,Beauty,Nike,1252,1464,131,3.6
+1126,168,Dry Fruits,Grocery,Generic,1713,2021,238,4.7
+1127,14,Lipstick,Beauty,Milton,1447,2229,163,5.0
+1128,236,Storage Box,Home & Kitchen,Nike,899,1602,180,4.9
+1129,256,Tea,Grocery,Puma,1890,2346,334,3.8
+1130,96,Bedsheet,Home & Kitchen,Boat,1887,3006,300,3.8
+1131,103,Dry Fruits,Grocery,Mamaearth,2413,3582,346,4.8
+1132,47,Bluetooth Earbuds,Electronics,Mamaearth,1054,1475,299,3.8
+1133,256,Spices,Grocery,Nike,1817,3047,277,4.2
+1134,231,Power Bank,Electronics,Puma,1607,2831,170,3.6
+1135,113,Power Bank,Electronics,Mamaearth,1530,1932,243,3.9
+1136,144,Storage Box,Home & Kitchen,Prestige,1827,2218,354,4.9
+1137,48,Smart Watch,Electronics,Boat,2473,4235,395,4.1
+1138,125,Saree,Fashion,Puma,498,612,397,4.6
+1139,239,Jeans,Fashion,Mamaearth,1646,2905,387,4.2
+1140,62,Saree,Fashion,Prestige,1268,1549,203,4.1
+1141,202,Lipstick,Beauty,Nike,2479,3255,234,3.9
+1142,28,Smart Watch,Electronics,Milton,2419,2976,124,3.8
+1143,247,Shampoo,Beauty,Nike,433,774,307,4.4
+1144,21,Saree,Fashion,Puma,567,985,150,3.8
+1145,77,Tea,Grocery,Puma,1866,3200,267,3.6
+1146,265,Tea,Grocery,Generic,2484,2949,129,4.0
+1147,274,Storage Box,Home & Kitchen,Lakme,2470,3762,210,4.2
+1148,34,Lipstick,Beauty,Mamaearth,1737,2165,150,4.8
+1149,93,Spices,Grocery,Prestige,2098,2829,326,3.8
+1150,244,Dry Fruits,Grocery,Generic,1912,3283,28,5.0
+1151,149,Spices,Grocery,Puma,866,1530,163,3.7
+1152,289,Storage Box,Home & Kitchen,Lakme,2459,4389,187,3.7
+1153,66,Smart Watch,Electronics,Milton,967,1292,255,4.2
+1154,251,Storage Box,Home & Kitchen,Milton,282,470,127,4.3
+1155,120,Bluetooth Earbuds,Electronics,Nike,687,873,143,3.6
+1156,297,Tea,Grocery,Mamaearth,1553,2057,320,4.7
+1157,256,Smart Watch,Electronics,Prestige,1333,2328,286,3.8
+1158,91,Smart Watch,Electronics,Milton,1171,1632,166,4.9
+1159,51,Smart Watch,Electronics,Lakme,1164,1492,306,3.7
+1160,150,Bluetooth Earbuds,Electronics,Puma,2290,2871,271,3.8
+1161,295,Dry Fruits,Grocery,Nike,1850,2336,303,3.8
+1162,67,Spices,Grocery,Mamaearth,1012,1204,347,3.8
+1163,264,Dry Fruits,Grocery,Lakme,307,467,225,4.0
+1164,278,Lipstick,Beauty,Generic,1042,1374,307,4.5
+1165,39,Face Wash,Beauty,Mamaearth,1949,3406,257,3.9
+1166,161,Lipstick,Beauty,Milton,2331,2687,174,3.6
+1167,209,Smart Watch,Electronics,Boat,1918,2474,400,4.2
+1168,254,Women's Kurti,Fashion,Mamaearth,1530,2105,214,4.2
+1169,192,Spices,Grocery,Boat,1667,2423,40,4.7
+1170,295,Jeans,Fashion,Milton,1223,1596,163,4.9
+1171,288,Spices,Grocery,Lakme,1401,1760,141,4.6
+1172,298,Tea,Grocery,Generic,897,1500,391,3.8
+1173,252,Men T-Shirt,Fashion,Generic,1632,1884,77,4.7
+1174,222,Jeans,Fashion,Milton,1485,2526,274,4.4
+1175,52,Shampoo,Beauty,Generic,1336,2307,346,4.7
+1176,41,Saree,Fashion,Generic,1702,2946,225,4.5
+1177,159,Spices,Grocery,Mamaearth,2357,4160,360,4.1
+1178,27,Dry Fruits,Grocery,Boat,2111,3252,153,4.1
+1179,224,Saree,Fashion,Prestige,1114,1336,45,5.0
+1180,46,Shampoo,Beauty,Lakme,776,991,205,3.6
+1181,299,Saree,Fashion,Mamaearth,180,288,43,3.8
+1182,123,Mixer,Home & Kitchen,Prestige,2398,3288,258,4.8
+1183,248,Bluetooth Earbuds,Electronics,Generic,2074,3645,40,4.2
+1184,24,Mixer,Home & Kitchen,Prestige,670,878,82,4.2
+1185,81,Mixer,Home & Kitchen,Puma,1629,2154,250,3.6
+1186,243,Smart Watch,Electronics,Boat,1957,2773,297,4.6
+1187,132,Smart Watch,Electronics,Lakme,1765,2498,31,3.6
+1188,258,Smart Watch,Electronics,Generic,303,429,140,4.8
+1189,298,Storage Box,Home & Kitchen,Mamaearth,238,367,156,3.9
+1190,111,Men T-Shirt,Fashion,Mamaearth,1015,1485,114,4.6
+1191,293,Men T-Shirt,Fashion,Prestige,691,1088,111,3.5
+1192,226,Storage Box,Home & Kitchen,Nike,879,1286,213,4.3
+1193,239,Storage Box,Home & Kitchen,Milton,1384,2321,123,3.6
+1194,13,Bluetooth Earbuds,Electronics,Boat,141,218,273,4.4
+1195,200,Spices,Grocery,Boat,1559,2731,181,4.8
+1196,293,Tea,Grocery,Boat,963,1455,333,4.0
+1197,21,Storage Box,Home & Kitchen,Nike,1014,1322,65,4.2
+1198,161,Mixer,Home & Kitchen,Milton,1644,2833,261,4.1
+1199,114,Power Bank,Electronics,Generic,1449,2044,190,4.4
+1200,27,Storage Box,Home & Kitchen,Generic,777,1285,281,3.7
+1201,252,Lipstick,Beauty,Lakme,1071,1581,382,4.0
+1202,63,Spices,Grocery,Lakme,896,1157,218,4.3
+1203,21,Power Bank,Electronics,Nike,1751,2171,390,4.7
+1204,57,Shampoo,Beauty,Lakme,465,548,32,4.2
+1205,260,Bedsheet,Home & Kitchen,Lakme,711,1200,365,4.2
+1206,287,Bedsheet,Home & Kitchen,Milton,277,445,182,4.6
+1207,227,Bedsheet,Home & Kitchen,Generic,377,622,161,3.6
+1208,259,Tea,Grocery,Lakme,1541,2403,250,4.0
+1209,32,Power Bank,Electronics,Nike,2467,2866,361,3.8
+1210,274,Men T-Shirt,Fashion,Milton,2395,4194,286,4.3
+1211,106,Mixer,Home & Kitchen,Lakme,433,606,106,4.8
+1212,176,Tea,Grocery,Generic,2245,3449,220,3.5
+1213,107,Saree,Fashion,Puma,1553,2587,321,4.1
+1214,176,Mixer,Home & Kitchen,Milton,635,871,356,4.8
+1215,81,Mixer,Home & Kitchen,Generic,1886,2865,296,4.6
+1216,158,Mixer,Home & Kitchen,Milton,1680,2271,71,5.0
+1217,48,Power Bank,Electronics,Prestige,1011,1745,187,3.6
+1218,92,Bedsheet,Home & Kitchen,Boat,2180,3515,112,4.2
+1219,113,Jeans,Fashion,Boat,1790,2509,287,4.8
+1220,49,Face Wash,Beauty,Prestige,2030,2987,62,4.4
+1221,207,Smart Watch,Electronics,Boat,927,1464,346,3.6
+1222,206,Spices,Grocery,Generic,1955,3121,105,4.9
+1223,241,Bluetooth Earbuds,Electronics,Puma,196,273,240,4.7
+1224,173,Mixer,Home & Kitchen,Nike,1426,2378,129,3.9
+1225,140,Women's Kurti,Fashion,Milton,442,549,49,4.5
+1226,218,Spices,Grocery,Puma,917,1615,283,4.2
+1227,281,Face Wash,Beauty,Boat,1559,2558,309,3.7
+1228,107,Bluetooth Earbuds,Electronics,Prestige,2204,2722,289,3.7
+1229,31,Power Bank,Electronics,Mamaearth,480,760,138,3.6
+1230,46,Bedsheet,Home & Kitchen,Lakme,866,1123,305,3.5
+1231,77,Dry Fruits,Grocery,Boat,805,1162,346,3.6
+1232,7,Dry Fruits,Grocery,Lakme,1222,2150,172,4.1
+1233,273,Men T-Shirt,Fashion,Mamaearth,1401,1960,261,3.5
+1234,241,Shampoo,Beauty,Puma,993,1258,177,4.8
+1235,124,Tea,Grocery,Lakme,1916,3247,128,3.8
+1236,150,Shampoo,Beauty,Boat,2248,3957,175,3.7
+1237,227,Women's Kurti,Fashion,Nike,1798,2970,231,3.6
+1238,25,Bluetooth Earbuds,Electronics,Prestige,1208,1392,247,3.5
+1239,164,Tea,Grocery,Generic,1016,1456,367,4.9
+1240,208,Men T-Shirt,Fashion,Lakme,233,394,369,4.3
+1241,21,Shampoo,Beauty,Prestige,145,180,316,4.6
+1242,279,Bluetooth Earbuds,Electronics,Mamaearth,306,423,71,4.2
+1243,96,Storage Box,Home & Kitchen,Boat,1478,2484,197,3.6
+1244,148,Storage Box,Home & Kitchen,Puma,523,679,77,4.9
+1245,196,Storage Box,Home & Kitchen,Puma,1621,2174,362,3.6
+1246,32,Jeans,Fashion,Boat,2225,3105,71,4.0
+1247,140,Smart Watch,Electronics,Prestige,769,1273,233,4.5
+1248,239,Saree,Fashion,Puma,2186,3254,68,5.0
+1249,50,Bedsheet,Home & Kitchen,Generic,172,238,270,4.7
+1250,212,Shampoo,Beauty,Milton,399,578,376,3.7
+1251,164,Face Wash,Beauty,Boat,1527,2119,242,4.0
+1252,253,Storage Box,Home & Kitchen,Puma,1833,2731,201,4.9
+1253,295,Storage Box,Home & Kitchen,Mamaearth,2301,3820,292,4.3
+1254,6,Face Wash,Beauty,Generic,2105,3488,101,4.7
+1255,38,Dry Fruits,Grocery,Lakme,1234,1694,397,4.8
+1256,237,Storage Box,Home & Kitchen,Puma,2281,4072,208,4.1
+1257,103,Men T-Shirt,Fashion,Nike,1635,1956,113,3.8
+1258,16,Spices,Grocery,Generic,1590,2105,160,4.8
+1259,295,Tea,Grocery,Puma,1853,2982,147,4.4
+1260,195,Power Bank,Electronics,Boat,1493,2274,267,4.8
+1261,102,Tea,Grocery,Nike,1775,2719,210,3.9
+1262,145,Dry Fruits,Grocery,Prestige,1472,2219,181,3.6
+1263,18,Jeans,Fashion,Generic,2479,4376,210,4.2
+1264,76,Face Wash,Beauty,Puma,334,563,393,4.8
+1265,233,Bluetooth Earbuds,Electronics,Mamaearth,1483,1796,265,4.4
+1266,189,Men T-Shirt,Fashion,Milton,2003,2385,197,3.6
+1267,32,Storage Box,Home & Kitchen,Mamaearth,1640,2731,395,4.5
+1268,239,Shampoo,Beauty,Nike,809,1292,261,4.2
+1269,166,Smart Watch,Electronics,Puma,360,480,134,4.7
+1270,234,Bedsheet,Home & Kitchen,Milton,2427,3457,375,4.3
+1271,27,Tea,Grocery,Milton,428,707,149,4.1
+1272,100,Storage Box,Home & Kitchen,Puma,200,336,82,4.2
+1273,196,Jeans,Fashion,Prestige,1584,1978,304,4.7
+1274,156,Smart Watch,Electronics,Nike,1981,2439,371,3.6
+1275,277,Power Bank,Electronics,Mamaearth,880,1325,202,3.6
+1276,76,Lipstick,Beauty,Boat,357,448,220,4.8
+1277,19,Jeans,Fashion,Generic,1220,1758,199,4.8
+1278,134,Bedsheet,Home & Kitchen,Milton,1052,1366,333,4.3
+1279,12,Mixer,Home & Kitchen,Nike,718,1258,119,4.1
+1280,141,Smart Watch,Electronics,Nike,1755,2698,277,4.8
+1281,242,Power Bank,Electronics,Mamaearth,1041,1562,115,4.2
+1282,18,Bluetooth Earbuds,Electronics,Boat,701,865,40,4.4
+1283,11,Tea,Grocery,Prestige,220,363,339,4.9
+1284,251,Saree,Fashion,Boat,342,589,66,4.5
+1285,261,Face Wash,Beauty,Lakme,754,879,21,4.6
+1286,15,Bedsheet,Home & Kitchen,Nike,1557,1972,284,4.1
+1287,1,Shampoo,Beauty,Milton,1650,2266,23,4.5
+1288,91,Women's Kurti,Fashion,Boat,1679,2590,242,3.8
+1289,160,Bluetooth Earbuds,Electronics,Mamaearth,1131,1562,181,4.2
+1290,19,Power Bank,Electronics,Milton,328,420,109,3.9
+1291,298,Tea,Grocery,Lakme,1726,2507,104,4.0
+1292,277,Power Bank,Electronics,Mamaearth,1650,2462,171,4.4
+1293,156,Spices,Grocery,Boat,1566,2209,37,4.9
+1294,270,Tea,Grocery,Puma,2146,3846,394,4.5
+1295,217,Saree,Fashion,Boat,1508,2098,199,4.0
+1296,132,Tea,Grocery,Boat,695,859,183,4.7
+1297,118,Storage Box,Home & Kitchen,Generic,340,547,340,4.3
+1298,263,Shampoo,Beauty,Lakme,1191,1863,181,4.9
+1299,228,Tea,Grocery,Prestige,594,1068,255,3.6
+1300,221,Spices,Grocery,Lakme,431,528,341,3.8
+1301,260,Bluetooth Earbuds,Electronics,Nike,2068,3104,284,3.7
+1302,191,Shampoo,Beauty,Boat,2061,3516,385,3.8
+1303,229,Dry Fruits,Grocery,Nike,199,251,138,4.8
+1304,190,Lipstick,Beauty,Generic,1165,1860,240,4.7
+1305,296,Face Wash,Beauty,Nike,858,1229,218,4.1
+1306,39,Jeans,Fashion,Mamaearth,336,395,325,4.4
+1307,3,Face Wash,Beauty,Prestige,428,688,315,4.8
+1308,1,Mixer,Home & Kitchen,Nike,2371,4165,143,4.9
+1309,239,Saree,Fashion,Nike,2405,2987,145,4.7
+1310,79,Bluetooth Earbuds,Electronics,Milton,1927,3416,388,4.5
+1311,3,Smart Watch,Electronics,Puma,2159,3722,316,4.1
+1312,181,Face Wash,Beauty,Mamaearth,2032,2874,323,4.7
+1313,13,Lipstick,Beauty,Boat,981,1479,364,3.9
+1314,191,Bluetooth Earbuds,Electronics,Milton,1512,2621,66,4.2
+1315,256,Bluetooth Earbuds,Electronics,Boat,1434,2377,355,4.8
+1316,299,Women's Kurti,Fashion,Milton,1336,2076,205,5.0
+1317,10,Dry Fruits,Grocery,Generic,301,406,56,3.8
+1318,280,Jeans,Fashion,Milton,2005,2818,240,4.3
+1319,16,Shampoo,Beauty,Generic,474,685,204,4.2
+1320,264,Storage Box,Home & Kitchen,Milton,2281,4068,266,4.8
+1321,120,Men T-Shirt,Fashion,Lakme,929,1335,159,3.7
+1322,118,Dry Fruits,Grocery,Nike,1005,1747,247,4.6
+1323,182,Shampoo,Beauty,Lakme,497,809,96,4.7
+1324,13,Men T-Shirt,Fashion,Prestige,1980,2311,373,4.1
+1325,185,Dry Fruits,Grocery,Puma,691,1057,128,4.3
+1326,136,Tea,Grocery,Prestige,2473,3064,355,3.5
+1327,247,Power Bank,Electronics,Generic,1162,1451,125,4.5
+1328,209,Dry Fruits,Grocery,Puma,2335,2925,38,4.3
+1329,81,Jeans,Fashion,Boat,2083,2529,262,3.8
+1330,22,Bedsheet,Home & Kitchen,Milton,1276,1594,192,4.7
+1331,229,Lipstick,Beauty,Puma,634,1034,367,4.1
+1332,281,Lipstick,Beauty,Boat,527,924,82,5.0
+1333,235,Bluetooth Earbuds,Electronics,Prestige,244,411,216,4.1
+1334,187,Shampoo,Beauty,Milton,2038,2910,258,4.5
+1335,177,Women's Kurti,Fashion,Prestige,252,408,315,4.8
+1336,284,Spices,Grocery,Milton,1920,2234,72,3.6
+1337,167,Jeans,Fashion,Boat,1074,1537,268,4.0
+1338,300,Jeans,Fashion,Prestige,1958,3256,335,3.5
+1339,277,Tea,Grocery,Nike,1425,1890,324,3.8
+1340,232,Storage Box,Home & Kitchen,Prestige,1421,2274,363,4.8
+1341,225,Smart Watch,Electronics,Nike,2032,3614,302,4.3
+1342,45,Bedsheet,Home & Kitchen,Lakme,928,1268,33,4.7
+1343,145,Bluetooth Earbuds,Electronics,Milton,728,1184,143,3.9
+1344,294,Face Wash,Beauty,Prestige,1993,2669,97,4.9
+1345,182,Dry Fruits,Grocery,Mamaearth,1590,2494,257,4.4
+1346,30,Power Bank,Electronics,Lakme,1951,2797,140,3.5
+1347,41,Storage Box,Home & Kitchen,Prestige,2251,3698,155,4.1
+1348,289,Women's Kurti,Fashion,Puma,500,686,201,4.7
+1349,84,Smart Watch,Electronics,Generic,451,723,374,4.9
+1350,161,Shampoo,Beauty,Milton,81,109,365,4.8
+1351,233,Power Bank,Electronics,Generic,682,1143,67,3.7
+1352,186,Tea,Grocery,Mamaearth,1324,1671,303,5.0
+1353,19,Women's Kurti,Fashion,Mamaearth,1869,2479,371,4.2
+1354,179,Smart Watch,Electronics,Lakme,1715,2396,160,4.1
+1355,108,Face Wash,Beauty,Mamaearth,1610,2051,216,3.6
+1356,49,Bluetooth Earbuds,Electronics,Milton,1885,2722,327,4.2
+1357,220,Women's Kurti,Fashion,Nike,1996,2764,263,3.5
+1358,238,Saree,Fashion,Lakme,1262,1516,344,3.8
+1359,131,Storage Box,Home & Kitchen,Generic,1931,2923,285,4.6
+1360,152,Mixer,Home & Kitchen,Puma,2457,3333,373,4.3
+1361,260,Power Bank,Electronics,Puma,2080,3412,103,4.2
+1362,162,Lipstick,Beauty,Generic,2133,3070,142,4.7
+1363,30,Women's Kurti,Fashion,Mamaearth,512,708,245,4.6
+1364,213,Power Bank,Electronics,Mamaearth,1448,2430,210,4.1
+1365,200,Face Wash,Beauty,Nike,2151,3434,76,4.8
+1366,233,Smart Watch,Electronics,Milton,728,1250,46,3.8
+1367,284,Spices,Grocery,Prestige,750,1166,94,4.1
+1368,67,Shampoo,Beauty,Mamaearth,2159,3834,322,3.9
+1369,56,Smart Watch,Electronics,Mamaearth,1778,2077,367,4.2
+1370,166,Tea,Grocery,Boat,2013,2423,257,4.5
+1371,125,Bedsheet,Home & Kitchen,Lakme,1950,2289,47,3.8
+1372,135,Mixer,Home & Kitchen,Nike,2399,4270,161,4.0
+1373,101,Tea,Grocery,Generic,1759,2581,359,4.9
+1374,138,Bedsheet,Home & Kitchen,Boat,1395,2232,66,3.8
+1375,76,Tea,Grocery,Puma,817,1083,79,4.3
+1376,42,Dry Fruits,Grocery,Nike,1713,2000,290,4.4
+1377,276,Women's Kurti,Fashion,Puma,2187,2666,134,4.0
+1378,13,Spices,Grocery,Boat,1381,1891,317,4.0
+1379,248,Men T-Shirt,Fashion,Puma,712,1187,323,4.3
+1380,198,Spices,Grocery,Milton,1010,1715,45,3.8
+1381,290,Bluetooth Earbuds,Electronics,Nike,2220,3806,65,4.5
+1382,215,Face Wash,Beauty,Milton,2419,3565,212,4.0
+1383,62,Bluetooth Earbuds,Electronics,Lakme,633,905,213,4.7
+1384,150,Dry Fruits,Grocery,Milton,1658,2819,109,4.8
+1385,269,Storage Box,Home & Kitchen,Generic,2031,3001,340,4.7
+1386,66,Bluetooth Earbuds,Electronics,Boat,906,1405,260,3.9
+1387,126,Storage Box,Home & Kitchen,Puma,373,475,398,4.0
+1388,219,Men T-Shirt,Fashion,Nike,1607,2178,261,4.3
+1389,137,Bluetooth Earbuds,Electronics,Prestige,572,843,366,4.9
+1390,265,Jeans,Fashion,Prestige,1428,2437,163,4.7
+1391,179,Bluetooth Earbuds,Electronics,Boat,2322,4149,131,4.9
+1392,118,Smart Watch,Electronics,Lakme,1085,1769,337,4.5
+1393,160,Mixer,Home & Kitchen,Nike,218,391,359,4.6
+1394,26,Shampoo,Beauty,Generic,2209,3575,207,4.2
+1395,44,Mixer,Home & Kitchen,Puma,557,802,109,4.6
+1396,86,Bedsheet,Home & Kitchen,Boat,802,1423,365,4.9
+1397,44,Power Bank,Electronics,Puma,712,997,162,4.3
+1398,166,Storage Box,Home & Kitchen,Puma,1093,1545,292,4.8
+1399,294,Storage Box,Home & Kitchen,Nike,2260,3795,86,4.7
+1400,110,Bedsheet,Home & Kitchen,Puma,695,1093,88,4.1
+1401,191,Smart Watch,Electronics,Prestige,1847,3173,209,3.9
+1402,224,Storage Box,Home & Kitchen,Lakme,882,1222,383,4.4
+1403,39,Men T-Shirt,Fashion,Lakme,2324,3201,327,4.0
+1404,90,Lipstick,Beauty,Mamaearth,1004,1517,161,4.0
+1405,228,Mixer,Home & Kitchen,Puma,2176,3444,397,3.8
+1406,185,Mixer,Home & Kitchen,Puma,934,1580,324,3.6
+1407,210,Power Bank,Electronics,Generic,825,1034,134,4.4
+1408,82,Mixer,Home & Kitchen,Mamaearth,2135,2702,206,3.5
+1409,228,Lipstick,Beauty,Milton,2259,3052,35,4.7
+1410,59,Spices,Grocery,Milton,899,1617,342,4.9
+1411,281,Mixer,Home & Kitchen,Boat,1066,1286,323,4.2
+1412,55,Bluetooth Earbuds,Electronics,Lakme,1307,1564,206,4.4
+1413,279,Bluetooth Earbuds,Electronics,Prestige,2386,3087,202,4.8
+1414,241,Bluetooth Earbuds,Electronics,Mamaearth,934,1243,341,4.8
+1415,118,Men T-Shirt,Fashion,Prestige,1841,3076,118,3.5
+1416,27,Women's Kurti,Fashion,Nike,1735,2713,233,4.5
+1417,193,Bedsheet,Home & Kitchen,Puma,714,825,154,4.7
+1418,240,Storage Box,Home & Kitchen,Boat,490,794,139,3.9
+1419,87,Power Bank,Electronics,Boat,1222,1493,73,4.8
+1420,69,Storage Box,Home & Kitchen,Mamaearth,1385,1608,124,4.4
+1421,83,Power Bank,Electronics,Generic,2407,4201,318,4.1
+1422,160,Dry Fruits,Grocery,Milton,658,1113,253,4.3
+1423,59,Spices,Grocery,Generic,1632,2216,359,4.3
+1424,131,Mixer,Home & Kitchen,Prestige,430,559,237,5.0
+1425,228,Tea,Grocery,Puma,1315,2028,238,4.3
+1426,265,Mixer,Home & Kitchen,Lakme,1654,1996,229,3.8
+1427,49,Women's Kurti,Fashion,Lakme,687,824,43,4.6
+1428,166,Dry Fruits,Grocery,Lakme,1851,3117,334,4.9
+1429,270,Face Wash,Beauty,Milton,1996,3082,96,4.5
+1430,217,Smart Watch,Electronics,Prestige,1777,2898,209,4.8
+1431,61,Face Wash,Beauty,Nike,873,1146,343,4.1
+1432,42,Women's Kurti,Fashion,Mamaearth,706,1045,227,4.7
+1433,291,Smart Watch,Electronics,Boat,926,1255,109,4.8
+1434,270,Smart Watch,Electronics,Prestige,1649,2668,88,3.6
+1435,271,Bedsheet,Home & Kitchen,Mamaearth,2100,3006,342,4.1
+1436,24,Face Wash,Beauty,Puma,2002,2503,202,3.5
+1437,108,Bluetooth Earbuds,Electronics,Prestige,341,482,205,3.9
+1438,203,Face Wash,Beauty,Puma,1568,1841,101,4.7
+1439,202,Bluetooth Earbuds,Electronics,Lakme,1148,1690,377,3.9
+1440,192,Face Wash,Beauty,Mamaearth,2261,3672,312,4.7
+1441,112,Jeans,Fashion,Generic,1447,2450,292,4.7
+1442,298,Smart Watch,Electronics,Puma,439,674,396,4.5
+1443,16,Bedsheet,Home & Kitchen,Boat,831,1491,214,3.7
+1444,46,Smart Watch,Electronics,Mamaearth,162,287,232,3.6
+1445,258,Bluetooth Earbuds,Electronics,Milton,1762,2864,38,4.3
+1446,46,Bedsheet,Home & Kitchen,Generic,1930,2750,75,4.6
+1447,186,Power Bank,Electronics,Boat,2192,3222,68,3.6
+1448,290,Saree,Fashion,Lakme,628,903,183,4.7
+1449,228,Tea,Grocery,Nike,1781,2774,118,4.7
+1450,214,Tea,Grocery,Mamaearth,940,1511,387,4.7
+1451,166,Tea,Grocery,Boat,333,562,247,3.6
+1452,164,Men T-Shirt,Fashion,Milton,2013,3332,220,4.3
+1453,128,Mixer,Home & Kitchen,Milton,1023,1446,35,4.5
+1454,11,Lipstick,Beauty,Boat,2366,3131,90,4.5
+1455,139,Shampoo,Beauty,Generic,2204,3645,175,4.8
+1456,242,Bluetooth Earbuds,Electronics,Puma,2199,2701,296,4.2
+1457,4,Lipstick,Beauty,Generic,880,1134,221,4.3
+1458,119,Tea,Grocery,Generic,2302,3661,271,4.9
+1459,93,Spices,Grocery,Milton,1021,1430,191,4.1
+1460,124,Mixer,Home & Kitchen,Mamaearth,1571,2188,77,4.2
+1461,181,Smart Watch,Electronics,Generic,711,1187,194,3.8
+1462,64,Men T-Shirt,Fashion,Prestige,1585,2321,216,4.5
+1463,300,Storage Box,Home & Kitchen,Milton,1948,2727,347,4.5
+1464,89,Jeans,Fashion,Puma,711,936,278,3.6
+1465,179,Jeans,Fashion,Prestige,1496,2100,137,3.9
+1466,229,Bedsheet,Home & Kitchen,Milton,2407,2802,374,4.1
+1467,124,Jeans,Fashion,Lakme,2103,3341,210,4.9
+1468,139,Jeans,Fashion,Generic,2236,3433,56,4.9
+1469,249,Saree,Fashion,Prestige,959,1416,301,5.0
+1470,99,Bedsheet,Home & Kitchen,Prestige,2194,3343,109,3.7
+1471,269,Dry Fruits,Grocery,Boat,470,606,221,4.5
+1472,214,Saree,Fashion,Lakme,2347,3744,271,3.7
+1473,18,Power Bank,Electronics,Mamaearth,1620,2866,311,4.9
+1474,18,Dry Fruits,Grocery,Prestige,880,1520,42,4.6
+1475,33,Face Wash,Beauty,Boat,1955,2931,313,3.6
+1476,267,Mixer,Home & Kitchen,Milton,442,663,279,4.1
+1477,200,Women's Kurti,Fashion,Boat,1344,1691,246,4.5
+1478,263,Spices,Grocery,Milton,2108,2563,318,3.8
+1479,113,Storage Box,Home & Kitchen,Milton,964,1637,32,4.9
+1480,122,Men T-Shirt,Fashion,Lakme,316,501,230,4.8
+1481,286,Women's Kurti,Fashion,Milton,2235,3462,391,4.8
+1482,260,Face Wash,Beauty,Mamaearth,2356,3356,126,3.6
+1483,9,Lipstick,Beauty,Nike,1514,2362,165,4.2
+1484,130,Dry Fruits,Grocery,Nike,195,308,182,3.6
+1485,1,Saree,Fashion,Milton,1561,1923,311,4.3
+1486,36,Jeans,Fashion,Generic,626,847,336,4.9
+1487,21,Face Wash,Beauty,Generic,567,855,39,4.1
+1488,171,Dry Fruits,Grocery,Lakme,1984,2686,326,4.8
+1489,38,Women's Kurti,Fashion,Milton,1639,2896,43,4.0
+1490,100,Spices,Grocery,Lakme,2246,2972,63,4.5
+1491,12,Power Bank,Electronics,Generic,1354,1670,371,3.8
+1492,81,Smart Watch,Electronics,Lakme,1215,1689,220,3.6
+1493,230,Mixer,Home & Kitchen,Generic,2023,2369,288,4.0
+1494,17,Mixer,Home & Kitchen,Mamaearth,2119,3198,154,4.9
+1495,19,Bluetooth Earbuds,Electronics,Puma,252,382,52,4.1
+1496,43,Bedsheet,Home & Kitchen,Milton,1433,2101,122,4.9
+1497,298,Dry Fruits,Grocery,Nike,712,854,181,4.6
+1498,137,Lipstick,Beauty,Puma,1075,1253,236,4.9
+1499,258,Mixer,Home & Kitchen,Boat,256,387,143,4.7
+1500,42,Jeans,Fashion,Lakme,1608,2306,295,4.9
